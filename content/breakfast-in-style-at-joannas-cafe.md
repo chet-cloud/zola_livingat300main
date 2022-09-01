@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2019-12-20 17:35:05
 date_gmt: 2019-12-20 17:35:05
+draft: false
 excerpt: 'You don’t need to travel far to feel like you’re grabbing breakfast in a
   quaint Parisian café. Joanna’s Café is truly a gem in the middle of the hustle and
   bustle of downtown Winnipeg!  '
@@ -12,15 +13,12 @@ file_name: breakfast-in-style-at-joannas-cafe.md
 guid: https://livingat300main.ca/?p=6126
 id: '6126'
 menu_order: '0'
-modified: 2019-12-20 17:35:05
-modified_gmt: 2019-12-20 17:35:05
 name: breakfast-in-style-at-joannas-cafe
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - best-restaurants-in-downtown-winnipeg
@@ -88,6 +86,8 @@ taxonomies:
 title: Breakfast in Style at Joanna’s Café
 to_ping: ''
 type: post
+updated: 2019-12-20 17:35:05
+updated_gmt: 2019-12-20 17:35:05
 ---
 <span data-contrast="auto">You don’t </span><span data-contrast="auto">need</span><span data-contrast="auto"> to travel far to feel like you’re grabbing break</span><span data-contrast="auto">fast in a quaint </span><span data-contrast="auto">Parisian </span><span data-contrast="auto">café</span><span data-contrast="auto">. </span><a href="http://www.themarlborough.ca/dining-en.html"><span data-contrast="none">Joanna’s Café</span></a><span data-contrast="auto"> </span><span data-contrast="auto">is truly a gem in the middle of the hustle a</span><span data-contrast="auto">nd bustle of downtown Winnipeg!</span>
 <h3><b><span data-contrast="auto">Mouth</span></b><b><span data-contrast="auto">-</span></b><b><span data-contrast="auto">Watering Food</span></b></h3>

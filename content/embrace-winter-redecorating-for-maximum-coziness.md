@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2020-01-03 22:06:56
 date_gmt: 2020-01-03 22:06:56
+draft: false
 excerpt: Living in North America, we ought to embrace winter. We should welcome it
   into our homes and lives for the months of cold, windy winter days that follow the
   pleasures of Christmas. Even after the tree is down and the presents have been unwrapped,
@@ -14,15 +15,12 @@ file_name: embrace-winter-redecorating-for-maximum-coziness.md
 guid: https://livingat300main.ca/?p=6142
 id: '6142'
 menu_order: '0'
-modified: 2020-01-03 22:06:56
-modified_gmt: 2020-01-03 22:06:56
 name: embrace-winter-redecorating-for-maximum-coziness
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - apartment
@@ -103,6 +101,8 @@ taxonomies:
 title: 'Embrace Winter: Redecorating for Maximum Coziness'
 to_ping: ''
 type: post
+updated: 2020-01-03 22:06:56
+updated_gmt: 2020-01-03 22:06:56
 ---
 <span data-contrast="auto">L</span><span data-contrast="auto">iving in North America</span><span data-contrast="auto">,</span><span data-contrast="auto"> </span><span data-contrast="auto">we ought to </span><span data-contrast="auto">embrace winter. </span><span data-contrast="auto">We </span><span data-contrast="auto">should welcome it into our homes and </span><span data-contrast="auto">lives </span><span data-contrast="auto">for the </span><span data-contrast="auto">months </span><span data-contrast="auto">of </span><span data-contrast="auto">cold</span><span data-contrast="auto">, windy winter days that follow the pleasures of Christmas</span><span data-contrast="auto">. Even after the tree is down and the presents have been unwrapped, certain decorating manoeuvres can</span><span data-contrast="auto"> </span><span data-contrast="auto">help us</span><span data-contrast="auto"> avoid </span><span data-contrast="auto">the lethargy and dark moods</span><span data-contrast="auto"> </span><span data-contrast="auto">that </span><span data-contrast="auto">dreary mornings and cold days can bring. </span><span data-ccp-props="{&quot;335559740&quot;:276}"> </span>
 

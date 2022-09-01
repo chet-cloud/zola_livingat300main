@@ -5,20 +5,18 @@ comment_status: open
 content_filtered: ''
 date: 2021-10-08 17:49:07
 date_gmt: 2021-10-08 17:49:07
+draft: false
 excerpt: ''
 file_name: five-things-to-do-in-downtown-winnipeg-summer-fall-edition.md
 guid: https://livingat300main.ca/?p=7096
 id: '7096'
 menu_order: '0'
-modified: 2021-10-08 17:49:07
-modified_gmt: 2021-10-08 17:49:07
 name: five-things-to-do-in-downtown-winnipeg-summer-fall-edition
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - apartment
@@ -36,6 +34,8 @@ taxonomies:
 title: Five things to do in Downtown Winnipeg – Summer/Fall edition
 to_ping: ''
 type: post
+updated: 2021-10-08 17:49:07
+updated_gmt: 2021-10-08 17:49:07
 ---
 <!-- wp:paragraph -->
 <p>Many people found summer 2021 nearly impossible to plan for, don't worry, you're not alone! Rest assured, there is still lots going on in Downtown Winnipeg for the summer and into fall this year! If you're left without plans but want to make some, we have you covered on a list of 5 great things you can still do in downtown Winnipeg this summer/fall 2021. Downtown Winnipeg is packed full of art, mysteries, history, culture, live music, fantastic food, and so much more to enjoy! This guide will help you get the most out of your Downtown adventures this season!</p>

@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2019-03-28 11:00:20
 date_gmt: 2019-03-28 11:00:20
+draft: false
 excerpt: 'Thanks to rising student debt and a tough housing market, many Millennials
   have no choice but to move back in with their parents after going to college or
   university. In these cases, for a young professional looking to live on their own,
@@ -13,15 +14,12 @@ file_name: six-reasons-why-renting-is-the-smart-move-for-millennials.md
 guid: https://livingat300main.ca/?p=3536
 id: '3536'
 menu_order: '0'
-modified: 2019-03-28 11:00:20
-modified_gmt: 2019-03-28 11:00:20
 name: six-reasons-why-renting-is-the-smart-move-for-millennials
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   category:
   - 300-main
@@ -32,6 +30,8 @@ taxonomies:
 title: Six Reasons Why Renting is the Smart Move for Millennials
 to_ping: ''
 type: post
+updated: 2019-03-28 11:00:20
+updated_gmt: 2019-03-28 11:00:20
 ---
 There are few decisions in life as important as your first home. And with the housing market rising, everyone seems to have advice about this decision. Millennials who are moving to bigger cities feel the pressure to get into the market. They’re told that buying is the smart move, and renting is just throwing away money. But is it? I took a look at the numbers and found six reasons why renting for Millennials is sometimes the best option.
 <h3>“You build equity when you buy a house”</h3>

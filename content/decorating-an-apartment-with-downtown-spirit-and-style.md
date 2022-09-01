@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2018-10-31 20:54:10
 date_gmt: 2018-10-31 20:54:10
+draft: false
 excerpt: Living in a small apartment doesn’t mean your space has to be boring. If
   you are living in downtown Winnipeg’s Exchange District, you are already surrounded
   by some of the most historic and beautiful architecture in Western Canada. Looking
@@ -14,15 +15,12 @@ file_name: decorating-an-apartment-with-downtown-spirit-and-style.md
 guid: http://livingat300main.ca/?p=351
 id: '351'
 menu_order: '0'
-modified: 2018-10-31 20:54:10
-modified_gmt: 2018-10-31 20:54:10
 name: decorating-an-apartment-with-downtown-spirit-and-style
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   category:
   - apartment
@@ -32,6 +30,8 @@ taxonomies:
 title: Decorating an Apartment with Downtown Spirit and Style
 to_ping: ''
 type: post
+updated: 2018-10-31 20:54:10
+updated_gmt: 2018-10-31 20:54:10
 ---
 Living downtown might sound like a dream to some. City lights, coffee shops, boutiques, food trucks, and skyscrapers; images of “urban” materialize in your mind when conversation turns to “downtown lifestyle.” It could even be the idea of walking to your workplace instead of being stuck in traffic that sways you to move into the heart of the city.
 

@@ -5,20 +5,18 @@ comment_status: open
 content_filtered: ''
 date: 2021-08-17 12:30:02
 date_gmt: 2021-08-17 12:30:02
+draft: false
 excerpt: ''
 file_name: the-ultimate-downtown-winnipeg-plant-shop-walk.md
 guid: https://livingat300main.ca/?p=6929
 id: '6929'
 menu_order: '0'
-modified: 2021-08-17 12:30:02
-modified_gmt: 2021-08-17 12:30:02
 name: the-ultimate-downtown-winnipeg-plant-shop-walk
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - apartment-building-in-downtown-winnipeg
@@ -35,6 +33,8 @@ taxonomies:
 title: The Ultimate Downtown Winnipeg Plant Shop Walk
 to_ping: ''
 type: post
+updated: 2021-08-17 12:30:02
+updated_gmt: 2021-08-17 12:30:02
 ---
 <!-- wp:paragraph -->
 <p>One of the best parts about apartment living downtown is that you don't have to go far to get fresh. Fresh produce, herbs, and plants for your place are all just a short walk away!</p>

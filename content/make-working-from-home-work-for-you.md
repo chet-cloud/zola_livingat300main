@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2019-04-11 20:30:43
 date_gmt: 2019-04-11 20:30:43
+draft: false
 excerpt: |-
   If you own your own business, you may need or want to work from home. This can be a great way to save yourself money and cut commuting time, but there are also potential pitfalls!
 
@@ -13,15 +14,12 @@ file_name: make-working-from-home-work-for-you.md
 guid: https://livingat300main.ca/?p=4045
 id: '4045'
 menu_order: '0'
-modified: 2019-04-11 20:30:43
-modified_gmt: 2019-04-11 20:30:43
 name: make-working-from-home-work-for-you
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   category:
   - apartment
@@ -31,6 +29,8 @@ taxonomies:
 title: Make Working from Home Work for You
 to_ping: ''
 type: post
+updated: 2019-04-11 20:30:43
+updated_gmt: 2019-04-11 20:30:43
 ---
 If you own your own business, you may need or want to work from home. This can be a great way to save yourself money and cut commuting time, but there are also potential pitfalls!
 

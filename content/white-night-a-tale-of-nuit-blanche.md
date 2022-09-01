@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2019-09-25 19:54:01
 date_gmt: 2019-09-25 19:54:01
+draft: false
 excerpt: Last summer, when whiteout parties were taking over whole blocks of downtown
   Winnipeg and all I saw were people in stylized white outfits, I knew there would
   be a white night I'd enjoy more in a few months. As an artist, poet and photographer,
@@ -13,15 +14,12 @@ file_name: white-night-a-tale-of-nuit-blanche.md
 guid: https://livingat300main.ca/?p=5822
 id: '5822'
 menu_order: '0'
-modified: 2019-09-25 19:54:01
-modified_gmt: 2019-09-25 19:54:01
 name: white-night-a-tale-of-nuit-blanche
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - container-architecture-by-winnipeg-architecture-foundation
@@ -91,6 +89,8 @@ taxonomies:
 title: 'White Night: A Tale of Nuit Blanche'
 to_ping: ''
 type: post
+updated: 2019-09-25 19:54:01
+updated_gmt: 2019-09-25 19:54:01
 ---
 Last summer, when whiteout parties were taking over whole blocks of downtown Winnipeg and all I saw were people in stylized white outfits, I knew there would be a white night I'd enjoy more in a few months. As an artist, poet and photographer, my favorite night of the year is always <a href="https://nuitblanchewinnipeg.ca/">Nuit Blanche</a>.
 

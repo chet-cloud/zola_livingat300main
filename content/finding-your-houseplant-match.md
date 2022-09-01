@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2020-01-17 20:47:52
 date_gmt: 2020-01-17 20:47:52
+draft: false
 excerpt: Houseplants should be an essential component of every interior design. A
   bit of greenery brightens up indoor spaces and has mood-boosting qualities. Sadly,
   many people don’t incorporate green friends into their homes because they just don’t
@@ -14,15 +15,12 @@ file_name: finding-your-houseplant-match.md
 guid: https://livingat300main.ca/?p=6163
 id: '6163'
 menu_order: '0'
-modified: 2020-01-17 20:47:52
-modified_gmt: 2020-01-17 20:47:52
 name: finding-your-houseplant-match
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - apartment
@@ -125,6 +123,8 @@ taxonomies:
 title: Finding Your (Houseplant) Match
 to_ping: ''
 type: post
+updated: 2020-01-17 20:47:52
+updated_gmt: 2020-01-17 20:47:52
 ---
 <span data-contrast="auto">Houseplants </span><span data-contrast="auto">should be </span><span data-contrast="auto">an essential component of every interior design. A bit of greenery brightens up indoor spaces and </span><span data-contrast="auto">has </span><span data-contrast="auto">mood-boosting</span><span data-contrast="auto"> qualities</span><span data-contrast="auto">.</span><span data-contrast="auto"> Sadly,</span><span data-contrast="auto"> many people </span><span data-contrast="auto">don’t incorporate </span><span data-contrast="auto">green friends into their homes because they </span><span data-contrast="auto">just don’t know which plant to choose!</span><span data-contrast="auto"> Here are my recommendations for plant</span><span data-contrast="auto">s</span><span data-contrast="auto"> to fit every lifestyle. </span><span data-ccp-props="{}"> </span>
 <h3><b><span data-contrast="auto">The Serial Plant Killer </span></b><span data-ccp-props="{}"> </span></h3>

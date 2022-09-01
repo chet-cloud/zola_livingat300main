@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2019-11-15 22:09:44
 date_gmt: 2019-11-15 22:09:44
+draft: false
 excerpt: Every time I hear the word “timeless” in relation to fashion or home décor,
   I feel so much hope. This piece of furniture or pair of shoes will last, will indeed
   be timeless.
@@ -12,15 +13,12 @@ file_name: developing-your-timeless-style.md
 guid: https://livingat300main.ca/?p=6030
 id: '6030'
 menu_order: '0'
-modified: 2019-11-15 22:09:44
-modified_gmt: 2019-11-15 22:09:44
 name: developing-your-timeless-style
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - antique-shop
@@ -94,6 +92,8 @@ taxonomies:
 title: Developing your Timeless Style
 to_ping: ''
 type: post
+updated: 2019-11-15 22:09:44
+updated_gmt: 2019-11-15 22:09:44
 ---
 Every time I hear the word “timeless” in relation to fashion or home décor, I feel so much hope. This piece of furniture or pair of shoes will last, will indeed be timeless.
 

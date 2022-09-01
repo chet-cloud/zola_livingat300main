@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2019-02-13 17:24:06
 date_gmt: 2019-02-13 17:24:06
+draft: false
 excerpt: With Valentine's day around the corner, it never hurts to plan a little something
   special for your darling. The typical breakfast in bed, dozen red roses and heart-shaped
   box of chocolates are all fine and dandy, but we can do better. This year, pump
@@ -14,15 +15,12 @@ file_name: valentines-day-in-winnipegs-heart.md
 guid: https://livingat300main.ca/?p=3098
 id: '3098'
 menu_order: '0'
-modified: 2019-02-13 17:24:06
-modified_gmt: 2019-02-13 17:24:06
 name: valentines-day-in-winnipegs-heart
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - after-hours-wild-romance
@@ -88,6 +86,8 @@ taxonomies:
 title: Valentine’s Day in Winnipeg’s Heart
 to_ping: ''
 type: post
+updated: 2019-02-13 17:24:06
+updated_gmt: 2019-02-13 17:24:06
 ---
 With Valentine's day around the corner, it never hurts to plan a little something special for your darling. The typical breakfast in bed, dozen red roses and heart-shaped box of chocolates are all fine and dandy, but we can do better. This year, pump up the creativity, explore Winnipeg's downtown and surrounding areas, and leave your partner speechless!
 <h3>1. <a href="https://manitobamuseum.ca/main/event/after-hours-wild-romance/">After Hours: Wild Romance</a></h3>

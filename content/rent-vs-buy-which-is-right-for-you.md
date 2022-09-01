@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2019-03-07 11:00:20
 date_gmt: 2019-03-07 11:00:20
+draft: false
 excerpt: The decision whether to buy or rent a home shouldn’t be made lightly. It
   should involve being honest with yourself about what you want, what you need, and
   lists—lots of lists with numbers that will show you the advantages and disadvantages
@@ -13,15 +14,12 @@ file_name: rent-vs-buy-which-is-right-for-you.md
 guid: https://livingat300main.ca/?p=3336
 id: '3336'
 menu_order: '0'
-modified: 2019-03-07 11:00:20
-modified_gmt: 2019-03-07 11:00:20
 name: rent-vs-buy-which-is-right-for-you
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - affordable
@@ -75,6 +73,8 @@ taxonomies:
 title: 'Rent vs Buy: Which is Right For You?'
 to_ping: ''
 type: post
+updated: 2019-03-07 11:00:20
+updated_gmt: 2019-03-07 11:00:20
 ---
 To rent or to buy, that is the question. It’s been analysed, discussed and debated for a long time, but it’s never been more relevant than today: Based on a <a href="https://www.cbc.ca/news/canada/calgary/calgary-rent-vs-buy-reader-response-road-ahead-1.4503852">Calgary survey</a>, young professionals who can afford to buy a house still prefer to rent. I’ve heard doctors, teachers, and other professionals argue that they find renting more convenient than buying.
 

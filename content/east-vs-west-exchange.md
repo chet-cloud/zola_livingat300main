@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2018-11-15 11:00:13
 date_gmt: 2018-11-15 11:00:13
+draft: false
 excerpt: |-
   Winnipeg’s world-famous Exchange District has more to offer than just great architecture. This vibrant, eclectic area is our hub of arts and culture, and it’s only a few blocks from your doorstep.
 
@@ -13,15 +14,12 @@ file_name: east-vs-west-exchange.md
 guid: http://livingat300main.ca/?p=460
 id: '460'
 menu_order: '0'
-modified: 2018-11-15 11:00:13
-modified_gmt: 2018-11-15 11:00:13
 name: east-vs-west-exchange
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   category:
   - adventure
@@ -33,6 +31,8 @@ taxonomies:
 title: East vs. West Exchange
 to_ping: ''
 type: post
+updated: 2018-11-15 11:00:13
+updated_gmt: 2018-11-15 11:00:13
 ---
 Winnipeg’s world-famous Exchange District has more to offer than just great architecture. This vibrant, eclectic area is our hub of arts and culture, and it’s only a few blocks from your doorstep.
 

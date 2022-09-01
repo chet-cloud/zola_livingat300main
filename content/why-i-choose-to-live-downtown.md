@@ -5,20 +5,18 @@ comment_status: open
 content_filtered: ''
 date: 2019-02-26 17:20:16
 date_gmt: 2019-02-26 17:20:16
+draft: false
 excerpt: ''
 file_name: why-i-choose-to-live-downtown.md
 guid: https://livingat300main.ca/?p=3297
 id: '3297'
 menu_order: '0'
-modified: 2019-02-26 17:20:16
-modified_gmt: 2019-02-26 17:20:16
 name: why-i-choose-to-live-downtown
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   category:
   - apartment
@@ -30,6 +28,8 @@ taxonomies:
 title: Why I Choose to Live Downtown
 to_ping: ''
 type: post
+updated: 2019-02-26 17:20:16
+updated_gmt: 2019-02-26 17:20:16
 ---
 The stereotypical trappings of urban living do not make downtown—the people, food and buildings do! I began my downtown living journey when I was 19, and I’ve never looked back. Something about downtown caught my interest when I was ready to move from my 130 square foot dormitory into a more grown-up apartment.
 

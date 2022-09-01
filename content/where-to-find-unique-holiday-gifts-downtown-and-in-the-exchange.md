@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2018-12-12 16:00:21
 date_gmt: 2018-12-12 16:00:21
+draft: false
 excerpt: The holidays are just around the corner, and while some always seem to be
   ahead of the game and finish their Christmas shopping by the time Black Friday hits,
   others (like me) wait until the last minute. By then, the malls are flooded with
@@ -14,15 +15,12 @@ file_name: where-to-find-unique-holiday-gifts-downtown-and-in-the-exchange.md
 guid: https://livingat300main.ca/?p=2385
 id: '2385'
 menu_order: '0'
-modified: 2018-12-12 16:00:21
-modified_gmt: 2018-12-12 16:00:21
 name: where-to-find-unique-holiday-gifts-downtown-and-in-the-exchange
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   category:
   - uncategorized
@@ -36,6 +34,8 @@ taxonomies:
 title: Where to Find Unique Holiday Gifts Downtown and in the Exchange
 to_ping: ''
 type: post
+updated: 2018-12-12 16:00:21
+updated_gmt: 2018-12-12 16:00:21
 ---
 The holidays are just around the corner, and while some always seem to be ahead of the game and finish their Christmas shopping by the time Black Friday hits, others (like me) wait until the last minute. By then, the malls are flooded with well-intentioned but anxious people looking to nab some last-minute gifts. The entire experience becomes frenzied, and the joy of picking out gifts for your loved ones’ withers.
 

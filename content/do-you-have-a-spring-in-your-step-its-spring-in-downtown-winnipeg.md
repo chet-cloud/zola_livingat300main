@@ -5,20 +5,18 @@ comment_status: open
 content_filtered: ''
 date: 2021-06-09 20:55:15
 date_gmt: 2021-06-09 20:55:15
+draft: false
 excerpt: ''
 file_name: do-you-have-a-spring-in-your-step-its-spring-in-downtown-winnipeg.md
 guid: https://livingat300main.ca/?p=6738
 id: '6738'
 menu_order: '0'
-modified: 2021-06-09 20:55:15
-modified_gmt: 2021-06-09 20:55:15
 name: do-you-have-a-spring-in-your-step-its-spring-in-downtown-winnipeg
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - apartment-building-in-downtown-winnipeg
@@ -35,6 +33,8 @@ taxonomies:
 title: Do you have a Spring in your step? It's Spring in Downtown, Winnipeg!
 to_ping: ''
 type: post
+updated: 2021-06-09 20:55:15
+updated_gmt: 2021-06-09 20:55:15
 ---
 <!-- wp:image {"id":6754,"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large"><img src="https://livingat300main.ca/wp-content/uploads/2021/06/Spring_in_Winnipeg-1024x678.jpg" alt="" class="wp-image-6754"/></figure>

@@ -5,20 +5,18 @@ comment_status: open
 content_filtered: ''
 date: 2021-12-23 21:48:41
 date_gmt: 2021-12-23 21:48:41
+draft: false
 excerpt: ''
 file_name: decorating-ideas-to-create-your-own-winter-wonderland.md
 guid: https://livingat300main.ca/?p=7219
 id: '7219'
 menu_order: '0'
-modified: 2021-12-23 21:48:41
-modified_gmt: 2021-12-23 21:48:41
 name: decorating-ideas-to-create-your-own-winter-wonderland
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - apartment
@@ -36,6 +34,8 @@ taxonomies:
 title: Decorating Ideas to Create your own Winter Wonderland
 to_ping: ''
 type: post
+updated: 2021-12-23 21:48:41
+updated_gmt: 2021-12-23 21:48:41
 ---
 <!-- wp:paragraph -->
 <p>Winter is just around the corner, and this is the most beautiful season for many winter-lovers. Houses covered with snow, the Christmas feeling, and the chilly weather make this season magical.</p>

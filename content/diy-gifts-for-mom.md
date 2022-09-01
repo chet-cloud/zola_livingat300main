@@ -5,20 +5,18 @@ comment_status: open
 content_filtered: ''
 date: 2022-04-26 21:21:37
 date_gmt: 2022-04-26 21:21:37
+draft: false
 excerpt: ''
 file_name: diy-gifts-for-mom.md
 guid: https://livingat300main.ca/?p=7775
 id: '7775'
 menu_order: '0'
-modified: 2022-04-26 21:21:37
-modified_gmt: 2022-04-26 21:21:37
 name: diy-gifts-for-mom
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   category:
   - art-photography
@@ -30,6 +28,8 @@ taxonomies:
 title: DIY Gifts for Mom
 to_ping: ''
 type: post
+updated: 2022-04-26 21:21:37
+updated_gmt: 2022-04-26 21:21:37
 ---
 <!-- wp:paragraph -->
 <p>Mother’s Day is May 8<sup>th</sup>, and it seems like no matter how much we think, plan and prepare for it, it still creeps up on us too soon. Whether or not Mother’s Day is catching you off guard this year, it is still harder to be more creative as the gift-giving years go on. This Mother’s Day, don't you get caught “giftless,” or worse, with a bad Mother's Day gift.</p>

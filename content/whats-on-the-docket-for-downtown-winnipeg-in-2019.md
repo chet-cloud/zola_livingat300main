@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2019-01-10 19:00:28
 date_gmt: 2019-01-10 19:00:28
+draft: false
 excerpt: Now that 2018 has wrapped up, you might be wondering what’s happening soon
   in the downtown ‘Peg. The area is bustling with development, including 300 Main,
   and 2019 is already shaping up to be jam-packed with events. Here’s a look at some
@@ -13,15 +14,12 @@ file_name: whats-on-the-docket-for-downtown-winnipeg-in-2019.md
 guid: https://livingat300main.ca/?p=2578
 id: '2578'
 menu_order: '0'
-modified: 2019-01-10 19:00:28
-modified_gmt: 2019-01-10 19:00:28
 name: whats-on-the-docket-for-downtown-winnipeg-in-2019
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - '2019'
@@ -64,6 +62,8 @@ taxonomies:
 title: What’s on the Docket for Downtown Winnipeg in 2019?
 to_ping: ''
 type: post
+updated: 2019-01-10 19:00:28
+updated_gmt: 2019-01-10 19:00:28
 ---
 Now that 2018 has wrapped up, you might be wondering what’s happening soon in the downtown ‘Peg. The area is bustling with development, including <a href="https://300main.ca/">300 Main</a>, and 2019 is already shaping up to be jam-packed with events. Here’s a look at some of the great happenings you’ll want to jot down in your calendar.
 <h3>Do You Like Music?</h3>

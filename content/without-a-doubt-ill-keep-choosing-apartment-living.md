@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2020-01-24 22:34:00
 date_gmt: 2020-01-24 22:34:00
+draft: false
 excerpt: "The streets of downtown Winnipeg are sprinkled with apartment complexes,
   of all shapes and sizes; each one housing hundreds of apartment dwellers with their
   own story to tell about why they chose apartment living.  \n\nMany people become
@@ -20,15 +21,12 @@ file_name: without-a-doubt-ill-keep-choosing-apartment-living.md
 guid: https://livingat300main.ca/?p=6184
 id: '6184'
 menu_order: '0'
-modified: 2020-01-24 22:34:00
-modified_gmt: 2020-01-24 22:34:00
 name: without-a-doubt-ill-keep-choosing-apartment-living
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   category:
   - apartment
@@ -38,6 +36,8 @@ taxonomies:
 title: Without A Doubt, I'll Keep Choosing Apartment Living
 to_ping: ''
 type: post
+updated: 2020-01-24 22:34:00
+updated_gmt: 2020-01-24 22:34:00
 ---
 <span data-contrast="none">The streets of downtown Winnipeg are sprinkled with apartment complexes, of all shapes and sizes; each one housing hundreds of apartment dwellers with their own story to tell </span><span data-contrast="none">about</span><span data-contrast="none"> w</span><span data-contrast="none">hy they chose apartment living.</span><span data-contrast="none"> </span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;335559731&quot;:720,&quot;335559740&quot;:480}"> </span>
 

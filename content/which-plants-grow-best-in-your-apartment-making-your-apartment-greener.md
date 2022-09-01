@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2018-12-27 11:00:55
 date_gmt: 2018-12-27 11:00:55
+draft: false
 excerpt: Between your 9-5 job, Tuesday Yoga classes and drinks with that online date,
   plant upkeep is at the back of your mind. However, your apartment isn’t just a place
   to crash—it's your home. And every home feels livelier and friendlier with a little
@@ -13,15 +14,12 @@ file_name: which-plants-grow-best-in-your-apartment-making-your-apartment-greene
 guid: https://livingat300main.ca/?p=2465
 id: '2465'
 menu_order: '0'
-modified: 2018-12-27 11:00:55
-modified_gmt: 2018-12-27 11:00:55
 name: which-plants-grow-best-in-your-apartment-making-your-apartment-greener
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - aloe-vera
@@ -53,6 +51,8 @@ taxonomies:
 title: Which Plants Grow Best in Your Apartment—Making Your Apartment Greener
 to_ping: ''
 type: post
+updated: 2018-12-27 11:00:55
+updated_gmt: 2018-12-27 11:00:55
 ---
 Between your 9-5 job, Tuesday Yoga classes and drinks with that online date, plant upkeep is at the back of your mind. However, your apartment isn’t just a place to crash—it's your home. And every home feels livelier and friendlier with a little greenery. If you don’t consider yourself a Green Thumb, don’t be intimidated—there are voluminous solutions even for the serial plant killers out there!
 

@@ -5,20 +5,18 @@ comment_status: open
 content_filtered: ''
 date: 2022-03-31 15:00:02
 date_gmt: 2022-03-31 15:00:02
+draft: false
 excerpt: ''
 file_name: spring-cleaning-your-life.md
 guid: https://livingat300main.ca/?p=7581
 id: '7581'
 menu_order: '0'
-modified: 2022-03-31 15:00:02
-modified_gmt: 2022-03-31 15:00:02
 name: spring-cleaning-your-life
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - apartment
@@ -36,6 +34,8 @@ taxonomies:
 title: Spring Cleaning Your Life
 to_ping: ''
 type: post
+updated: 2022-03-31 15:00:02
+updated_gmt: 2022-03-31 15:00:02
 ---
 <!-- wp:paragraph -->
 <p>Making changes to our daily schedules and changing old habits can be hard and overwhelming, which is why using a specific time of the year, as the start of the New Year or the start of Spring, make it a little bit easier to attempt to make small changes to our lifestyles. Take that leap of faith and make this spring season an opportunity to spring clean all aspects of your life.</p>

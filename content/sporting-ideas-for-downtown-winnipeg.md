@@ -5,20 +5,18 @@ comment_status: open
 content_filtered: ''
 date: 2018-11-08 15:55:40
 date_gmt: 2018-11-08 15:55:40
+draft: false
 excerpt: ''
 file_name: sporting-ideas-for-downtown-winnipeg.md
 guid: http://livingat300main.ca/?p=462
 id: '462'
 menu_order: '0'
-modified: 2018-11-08 15:55:40
-modified_gmt: 2018-11-08 15:55:40
 name: sporting-ideas-for-downtown-winnipeg
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - active-lifestyle
@@ -69,6 +67,8 @@ taxonomies:
 title: Sporting Ideas for Downtown Winnipeg
 to_ping: ''
 type: post
+updated: 2018-11-08 15:55:40
+updated_gmt: 2018-11-08 15:55:40
 ---
 If you happen to be a sports fan in Winnipeg, there is no better place to live than downtown where you can immerse yourself in the sporting vibe. All within walking distance from 300 Main Street, Winnipeg houses five top-of-the-line sporting venues that attract visitors and athletes from all over Canada and beyond. If you haven’t yet, it’s time to check these out—and if you live in an apartment downtown, you don’t even need to worry about parking. Put on your favourite sneakers and your favourite jersey and head out your door to one of these stellar sporting venues.
 <h3><a href="https://www.nhl.com/jets">Winnipeg Jets</a>—<a href="http://www.bellmtsplace.ca/">Bell MTS Place</a></h3>

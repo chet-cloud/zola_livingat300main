@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2019-06-18 15:32:51
 date_gmt: 2019-06-18 15:32:51
+draft: false
 excerpt: When you think “Winnipeg sports,” baseball is probably not the first thing that comes to
   mind, but Winnipeg has more to offer sports fans than just the Blue Bombers and
   the Jets! The Goldeyes are another fan favourite.  
@@ -12,15 +13,12 @@ file_name: take-me-out-to-the-ball-game.md
 guid: https://livingat300main.ca/?p=4744
 id: '4744'
 menu_order: '0'
-modified: 2019-06-18 15:32:51
-modified_gmt: 2019-06-18 15:32:51
 name: take-me-out-to-the-ball-game
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   category:
   - uncategorized
@@ -30,6 +28,8 @@ taxonomies:
 title: Take Me Out to the Ball Game
 to_ping: ''
 type: post
+updated: 2019-06-18 15:32:51
+updated_gmt: 2019-06-18 15:32:51
 ---
 <span data-contrast="auto">When </span><span data-contrast="auto">you</span><span data-contrast="auto"> think</span><span data-contrast="auto"> “Winnipeg sports,”</span><span data-contrast="auto"> </span><span data-contrast="auto">baseball is </span><span data-contrast="auto">probably not the first thing </span><span data-contrast="auto">that </span><span data-contrast="auto">come</span><span data-contrast="auto">s</span><span data-contrast="auto"> to mind</span><span data-contrast="auto">, but </span><span data-contrast="auto">Winnipeg has more to offer sports fans than just the <a href="https://www.bluebombers.com/">Blue Bombers</a> and <a href="https://www.nhl.com/jets">the Jets</a></span><span data-contrast="auto">! The </span><a href="https://goldeyes.com/"><span data-contrast="none">Gold</span><span data-contrast="none">eyes</span></a><span data-contrast="auto"> </span><span data-contrast="auto">are another fan favourite. </span><span data-ccp-props="{}"> </span>
 

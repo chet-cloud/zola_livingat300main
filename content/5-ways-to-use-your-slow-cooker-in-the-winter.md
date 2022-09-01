@@ -5,20 +5,18 @@ comment_status: open
 content_filtered: ''
 date: 2021-12-20 15:14:29
 date_gmt: 2021-12-20 15:14:29
+draft: false
 excerpt: ''
 file_name: 5-ways-to-use-your-slow-cooker-in-the-winter.md
 guid: https://livingat300main.ca/?p=7320
 id: '7320'
 menu_order: '0'
-modified: 2021-12-20 15:14:29
-modified_gmt: 2021-12-20 15:14:29
 name: 5-ways-to-use-your-slow-cooker-in-the-winter
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - apartment
@@ -36,6 +34,8 @@ taxonomies:
 title: 5 ways to use your slow cooker in the winter
 to_ping: ''
 type: post
+updated: 2021-12-20 15:14:29
+updated_gmt: 2021-12-20 15:14:29
 ---
 <!-- wp:paragraph -->
 <p>For me, winter is a time that is defined by two words: comfort and cozy. I prefer to hunker down for the cold months and try learning a couple of new things. That is how I found myself in a slow cooker frenzy and boldly declaring, “I will never use another device again”. The convenience of one-pot meals and the diversity of use make the slow cooker one of my favorite cooking tools. It is slow to warm up, but once it does, things get hot. That is why I am presenting you with five great ways to use your slow cooker to turn up the cozy this winter season.</p>

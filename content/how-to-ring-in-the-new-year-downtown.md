@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2018-12-18 11:00:57
 date_gmt: 2018-12-18 11:00:57
+draft: false
 excerpt: It’s getting late in the season for making New Year’s plans, but you still
   have some options for toasting the end of 2018. Take your pick of these fabulous shindigs, and
   head to downtown Winnipeg to ring in 2019! 
@@ -12,15 +13,12 @@ file_name: how-to-ring-in-the-new-year-downtown.md
 guid: https://livingat300main.ca/?p=2348
 id: '2348'
 menu_order: '0'
-modified: 2018-12-18 11:00:57
-modified_gmt: 2018-12-18 11:00:57
 name: how-to-ring-in-the-new-year-downtown
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   category:
   - uncategorized
@@ -32,6 +30,8 @@ taxonomies:
 title: How to Ring in the New Year Downtown
 to_ping: ''
 type: post
+updated: 2018-12-18 11:00:57
+updated_gmt: 2018-12-18 11:00:57
 ---
 <!-- wp:paragraph -->
 <p>It’s getting late in the season for making New Year’s plans, but you still have some options for toasting the end of 2018. Take your pick of these fabulous shindigs, and head to <a href="http://www.downtownwinnipegbiz.com/">downtown Winnipeg</a> to ring in 2019! </p>

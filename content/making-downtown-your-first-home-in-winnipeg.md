@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2019-01-17 11:00:52
 date_gmt: 2019-01-17 11:00:52
+draft: false
 excerpt: If you’re thinking about starting a new chapter of your life in Winnipeg,
   look no further than downtown – and I mean literally! Be where the government services
   are, where the action is and where breakfast meets business.
@@ -12,15 +13,12 @@ file_name: making-downtown-your-first-home-in-winnipeg.md
 guid: https://livingat300main.ca/?p=2527
 id: '2527'
 menu_order: '0'
-modified: 2019-01-17 11:00:52
-modified_gmt: 2019-01-17 11:00:52
 name: making-downtown-your-first-home-in-winnipeg
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   category:
   - adventure
@@ -34,6 +32,8 @@ taxonomies:
 title: Making Downtown Your First Home in Winnipeg
 to_ping: ''
 type: post
+updated: 2019-01-17 11:00:52
+updated_gmt: 2019-01-17 11:00:52
 ---
 Henry glanced at his watch as he gulped down his coffee, standing outside the Tim Hortons on Portage Avenue. He would be on time for his career counselling session at <a href="https://manitobastart.com/">Manitoba Start</a>, just a few blocks away. This was his first session, and he breathed an inward sigh of relief that such a great resource was so close to his apartment building. He had just arrived last week and was eager to get settled. Securing a <a href="https://www.gov.mb.ca/health/mhsip/mbcard.html">Manitoba Health Card</a> and finding a family doctor had been fairly easy. He had even been able to use the free services of the <a href="https://winnipegtransit.com/service/downtownspirit/">Downtown Spirit</a> bus since everything was within a few blocks of his new apartment in downtown.
 

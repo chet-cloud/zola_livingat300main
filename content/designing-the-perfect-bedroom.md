@@ -5,20 +5,18 @@ comment_status: open
 content_filtered: ''
 date: 2022-05-13 20:35:00
 date_gmt: 2022-05-13 20:35:00
+draft: false
 excerpt: ''
 file_name: designing-the-perfect-bedroom.md
 guid: https://livingat300main.ca/?p=7921
 id: '7921'
 menu_order: '0'
-modified: 2022-05-13 20:35:00
-modified_gmt: 2022-05-13 20:35:00
 name: designing-the-perfect-bedroom
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   category:
   - apartment
@@ -29,6 +27,8 @@ taxonomies:
 title: Designing the Perfect Bedroom
 to_ping: ''
 type: post
+updated: 2022-05-13 20:35:00
+updated_gmt: 2022-05-13 20:35:00
 ---
 <!-- wp:paragraph -->
 <p>Our bedroom is one of the most important spaces in the home. It is our retreat, where we relax and recharge. Being one of the focal points of our homes, many of us strive to create the 'perfect' bedroom. But when it comes to designing our bedrooms, it can be hard to know where to start. What do you need, what should you think of, are you forgetting anything, what is considered "the best" bedroom set up anyways?</p>

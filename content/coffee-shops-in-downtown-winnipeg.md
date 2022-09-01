@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2019-07-31 20:01:08
 date_gmt: 2019-07-31 20:01:08
+draft: false
 excerpt: Downtown Winnipeg is known for having the most frigid intersection in the
   city at Portage and Main, heritage buildings in Exchange District, beautiful blooming
   trees on the Manitoba legislature grounds, and art galleries. It’s also known for
@@ -15,15 +16,12 @@ file_name: coffee-shops-in-downtown-winnipeg.md
 guid: https://livingat300main.ca/?p=5575
 id: '5575'
 menu_order: '0'
-modified: 2019-07-31 20:01:08
-modified_gmt: 2019-07-31 20:01:08
 name: coffee-shops-in-downtown-winnipeg
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - 110-sherbrook
@@ -87,6 +85,8 @@ taxonomies:
 title: Coffee Shops In Downtown Winnipeg
 to_ping: ''
 type: post
+updated: 2019-07-31 20:01:08
+updated_gmt: 2019-07-31 20:01:08
 ---
 Downtown Winnipeg is known for having the most frigid intersection in the city at Portage and Main, heritage buildings in Exchange District, beautiful blooming trees on the Manitoba legislature grounds, and art galleries. It’s also known for its selection of unique, classy coffee shops. Downtown coffee shops don’t just serve espresso drinks to get you through the day; they also offer a cozy, relaxing place to unwind.
 

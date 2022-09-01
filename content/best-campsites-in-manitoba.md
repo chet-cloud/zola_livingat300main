@@ -5,20 +5,18 @@ comment_status: open
 content_filtered: ''
 date: 2022-06-22 18:28:12
 date_gmt: 2022-06-22 18:28:12
+draft: false
 excerpt: ''
 file_name: best-campsites-in-manitoba.md
 guid: https://livingat300main.ca/?p=10187
 id: '10187'
 menu_order: '0'
-modified: 2022-06-22 18:28:12
-modified_gmt: 2022-06-22 18:28:12
 name: best-campsites-in-manitoba
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   category:
   - adventure
@@ -28,6 +26,8 @@ taxonomies:
 title: Best Campsites in Manitoba
 to_ping: ''
 type: post
+updated: 2022-06-22 18:28:12
+updated_gmt: 2022-06-22 18:28:12
 ---
 <!-- wp:paragraph -->
 <p>Manitoba is known for many things. One of the things we are most famous for is being full of the border-to-border stunning nature, incredible wildlife, unforgettable lakes, and adventures. Manitoba is full of unique camping experiences, so let us help you make the most of Manitoba's landscape with this selection of incredible campsites.</p>

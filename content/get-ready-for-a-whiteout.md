@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2019-04-12 16:15:59
 date_gmt: 2019-04-12 16:15:59
+draft: false
 excerpt: 'As the Winnipeg Jets return to the Stanley Cup Playoffs, so does whiteout
   season! Whether you’re a die-hard hockey fan or just want to support Winnipeg’s
   team, the #WinnipegWhiteout gives you a chance to come together and celebrate!'
@@ -12,15 +13,12 @@ file_name: get-ready-for-a-whiteout.md
 guid: https://livingat300main.ca/?p=4180
 id: '4180'
 menu_order: '0'
-modified: 2019-04-12 16:15:59
-modified_gmt: 2019-04-12 16:15:59
 name: get-ready-for-a-whiteout
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - winnipegwhiteout
@@ -68,6 +66,8 @@ taxonomies:
 title: Get Ready for a Whiteout
 to_ping: ''
 type: post
+updated: 2019-04-12 16:15:59
+updated_gmt: 2019-04-12 16:15:59
 ---
 As the Winnipeg Jets return to the Stanley Cup Playoffs, so does whiteout season! Whether you’re a die-hard hockey fan or just want to support Winnipeg’s team, the <a href="https://www.instagram.com/explore/tags/wpgwhiteout/">#WinnipegWhiteout</a> gives you a chance to come together and celebrate!
 <h3>What to Expect</h3>

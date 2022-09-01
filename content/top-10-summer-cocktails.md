@@ -5,20 +5,18 @@ comment_status: open
 content_filtered: ''
 date: 2022-07-13 20:44:24
 date_gmt: 2022-07-13 20:44:24
+draft: false
 excerpt: ''
 file_name: top-10-summer-cocktails.md
 guid: https://livingat300main.ca/?p=10226
 id: '10226'
 menu_order: '0'
-modified: 2022-07-13 20:44:24
-modified_gmt: 2022-07-13 20:44:24
 name: top-10-summer-cocktails
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - apartment-living-winnipeg
@@ -29,6 +27,8 @@ taxonomies:
 title: Top 10 Summer Cocktails
 to_ping: ''
 type: post
+updated: 2022-07-13 20:44:24
+updated_gmt: 2022-07-13 20:44:24
 ---
 <!-- wp:paragraph -->
 <p>The perfect <a href="https://livingat300main.ca/five-things-to-do-in-downtown-winnipeg-summer-fall-edition/" target="_blank" rel="noreferrer noopener">Summer day</a> calls for the perfected Summer cocktail. Beat the Winnipeg heat this Summer by staying cool with these sweet and refreshing Top 10 Summer Cocktails!</p>

@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2019-10-08 21:04:51
 date_gmt: 2019-10-08 21:04:51
+draft: false
 excerpt: |-
   Fall is, hands-down, my favourite season. The warm embrace of an amber afternoon, the bluntness of the nippy air, the inviting smell of apples and spice… September marks the halt of weekends at the lake, picnics in the park and sipping icy drinks on a sweltering afternoon.
 
@@ -13,15 +14,12 @@ file_name: fall-in-love-with-downtown-this-autumn.md
 guid: https://livingat300main.ca/?p=5899
 id: '5899'
 menu_order: '0'
-modified: 2019-10-08 21:04:51
-modified_gmt: 2019-10-08 21:04:51
 name: fall-in-love-with-downtown-this-autumn
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - across-the-board-game-cafe
@@ -92,6 +90,8 @@ taxonomies:
 title: Fall in Love with Downtown this Autumn
 to_ping: ''
 type: post
+updated: 2019-10-08 21:04:51
+updated_gmt: 2019-10-08 21:04:51
 ---
 Fall is, hands-down, my favourite season. The warm embrace of an amber afternoon, the bluntness of the nippy air, the inviting smell of apples and spice… September marks the halt of weekends at the lake, picnics in the park and sipping icy drinks on a sweltering afternoon.
 

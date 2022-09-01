@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2019-11-08 20:53:23
 date_gmt: 2019-11-08 20:53:23
+draft: false
 excerpt: 'I had never been more excited than the days leading up to my move into my
   dorm room for my first year of university. I had spent months creating Pinterest
   boards and circling items in Ikea catalogs. As soon as I stepped into my new room,
@@ -14,15 +15,12 @@ file_name: how-to-deal-with-a-wall-colour-you-hate.md
 guid: https://livingat300main.ca/?p=6005
 id: '6005'
 menu_order: '0'
-modified: 2019-11-08 20:53:23
-modified_gmt: 2019-11-08 20:53:23
 name: how-to-deal-with-a-wall-colour-you-hate
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   category:
   - apartment
@@ -33,6 +31,8 @@ taxonomies:
 title: How to Deal with a Wall Colour You Hate
 to_ping: ''
 type: post
+updated: 2019-11-08 20:53:23
+updated_gmt: 2019-11-08 20:53:23
 ---
 I had never been more excited than the days leading up to my move into my dorm room for my first year of university. I had spent months creating Pinterest boards and circling items in Ikea catalogs. As soon as I stepped into my new room, my bubbling excitement quickly fizzled into disgust: lime green walls assaulted my eyes.
 

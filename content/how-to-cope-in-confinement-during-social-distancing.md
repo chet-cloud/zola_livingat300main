@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2020-04-13 17:09:20
 date_gmt: 2020-04-13 17:09:20
+draft: false
 excerpt: With its unfortunate arrival at the beginning of spring, COVID-19 has dashed
   our dreams of shaking off winter hibernation and venturing back into the world.
   As the introvertiest of introverts, spending time at home is something I relish,
@@ -15,15 +16,12 @@ file_name: how-to-cope-in-confinement-during-social-distancing.md
 guid: https://livingat300main.ca/?p=6283
 id: '6283'
 menu_order: '0'
-modified: 2020-04-13 17:09:20
-modified_gmt: 2020-04-13 17:09:20
 name: how-to-cope-in-confinement-during-social-distancing
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - 1-bedroom-apartment-in-winnipeg
@@ -96,6 +94,8 @@ taxonomies:
 title: How to Cope in Confinement During Social Distancing
 to_ping: ''
 type: post
+updated: 2020-04-13 17:09:20
+updated_gmt: 2020-04-13 17:09:20
 ---
 <span data-contrast="auto">With its unfortunate arrival at the </span><span data-contrast="auto">beginning</span><span data-contrast="auto"> of spring, C</span><span data-contrast="auto">OVID</span><span data-contrast="auto">-19 has dashed our dreams of shaking off winter hibernation and venturing back into the world. As the introvertiest of introverts, spending time at home is something I relish, but if you’re the type who likes to be on the go, you probably feel like you’re grounded and it </span><i><span data-contrast="auto">wasn’t even your fault</span></i><span data-contrast="auto">! Lucky for you, being sent to my room was always my punishment of choice.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:331}"> </span>
 

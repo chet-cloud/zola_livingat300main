@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2019-03-26 11:00:33
 date_gmt: 2019-03-26 11:00:33
+draft: false
 excerpt: Winnipeg’s craft beer scene continues to evolve, with taprooms spread around
   the city. There are so many options that Tourism Winnipeg has created a handy tool
   to help you choose a brewery!
@@ -12,15 +13,12 @@ file_name: a-beer-for-every-season-and-taste.md
 guid: https://livingat300main.ca/?p=3386
 id: '3386'
 menu_order: '0'
-modified: 2019-03-26 11:00:33
-modified_gmt: 2019-03-26 11:00:33
 name: a-beer-for-every-season-and-taste
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - '1919'
@@ -64,6 +62,8 @@ taxonomies:
 title: A Beer for Every Season and Taste
 to_ping: ''
 type: post
+updated: 2019-03-26 11:00:33
+updated_gmt: 2019-03-26 11:00:33
 ---
 Winnipeg’s craft beer scene continues to evolve, with taprooms spread around the city. There are so many options that <a href="https://www.tourismwinnipeg.com/">Tourism Winnipeg</a> has created a handy tool to help you <a href="https://www.tourismwinnipeg.com/eat-and-drink/breweries">choose a brewery</a>!
 

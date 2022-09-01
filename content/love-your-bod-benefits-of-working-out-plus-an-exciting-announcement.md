@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2019-05-09 11:00:20
 date_gmt: 2019-05-09 11:00:20
+draft: false
 excerpt: Setting aside the time to exercise can seem daunting. It leaves you sore,
   and there always seems to be a million other things you should be doing, but being
   active has tons of benefits—both physical and mental! I’m sure you’ve been told
@@ -13,15 +14,12 @@ file_name: love-your-bod-benefits-of-working-out-plus-an-exciting-announcement.m
 guid: https://livingat300main.ca/?p=4591
 id: '4591'
 menu_order: '0'
-modified: 2019-05-09 11:00:20
-modified_gmt: 2019-05-09 11:00:20
 name: love-your-bod-benefits-of-working-out-plus-an-exciting-announcement
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - 201-portage-ave
@@ -95,6 +93,8 @@ taxonomies:
 title: 'Love Your Bod: Benefits of Working Out (Plus, An Exciting Announcement!)'
 to_ping: ''
 type: post
+updated: 2019-05-09 11:00:20
+updated_gmt: 2019-05-09 11:00:20
 ---
 <span data-contrast="auto">Setting aside the time to exercise</span><span data-contrast="auto"> can seem daunting</span><span data-contrast="auto">. It leaves you sore, and </span><span data-contrast="auto">there alway</span><span data-contrast="auto">s</span><span data-contrast="auto"> seem</span><span data-contrast="auto">s</span><span data-contrast="auto"> to be a </span><span data-contrast="auto">million other things you </span><span data-contrast="auto">should</span><span data-contrast="auto"> </span><span data-contrast="auto">be </span><span data-contrast="auto">doing</span><span data-contrast="auto">, </span><span data-contrast="auto">but</span><span data-contrast="auto"> b</span><span data-contrast="auto">eing active has </span><span data-contrast="auto">tons of </span><span data-contrast="auto">benefit</span><span data-contrast="auto">s—</span><span data-contrast="auto">both </span><span data-contrast="auto">physical and mental! I</span><span data-contrast="auto">’m </span><span data-contrast="auto">sure you’ve been told a hundred</span><span data-contrast="auto">-</span><span data-contrast="auto">and</span><span data-contrast="auto">-</span><span data-contrast="auto">one times that exercise is good for you</span><span data-contrast="auto">,</span><span data-contrast="auto"> but has anyone told you why?</span>
 <h3><span data-contrast="auto">Exercise Transforms Your Body</span></h3>

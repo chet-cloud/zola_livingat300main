@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2019-08-09 21:05:13
 date_gmt: 2019-08-09 21:05:13
+draft: false
 excerpt: My kitchen is tiny. So tiny that guests will walk through it and ask, “Where’s
   the rest of it?” But I don’t let the size of my kitchen make me shy away from cooking!
   I’m a foodie, but most importantly, a foodie on a budget—so I cook most of my meals
@@ -13,15 +14,12 @@ file_name: how-to-maximize-your-tiny-kitchen.md
 guid: https://livingat300main.ca/?p=5620
 id: '5620'
 menu_order: '0'
-modified: 2019-08-09 21:05:13
-modified_gmt: 2019-08-09 21:05:13
 name: how-to-maximize-your-tiny-kitchen
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - apartment-hacks
@@ -63,6 +61,8 @@ taxonomies:
 title: How to Maximize Your Tiny Kitchen
 to_ping: ''
 type: post
+updated: 2019-08-09 21:05:13
+updated_gmt: 2019-08-09 21:05:13
 ---
 My kitchen is tiny. So tiny that guests will walk through it and ask, “Where’s the rest of it?” But I don’t let the size of my kitchen make me shy away from cooking! I’m a foodie, but most importantly, a foodie on a budget—so I cook most of my meals at home.
 <h3><em>Why I Love Cooking</em></h3>

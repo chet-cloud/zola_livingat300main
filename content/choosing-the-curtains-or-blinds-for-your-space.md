@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2020-03-02 15:10:09
 date_gmt: 2020-03-02 15:10:09
+draft: false
 excerpt: 'If you just moved into your new apartment, you may be hanging out in front
   of some very exposed windows right now. (I shutter at the thought!) Or maybe you
   just want to change up your window coverings. If the answer to your drapery desires
@@ -14,15 +15,12 @@ file_name: choosing-the-curtains-or-blinds-for-your-space.md
 guid: https://livingat300main.ca/?p=6247
 id: '6247'
 menu_order: '0'
-modified: 2020-03-02 15:10:09
-modified_gmt: 2020-03-02 15:10:09
 name: choosing-the-curtains-or-blinds-for-your-space
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - 1-bedroom-apartment-in-winnipeg
@@ -94,6 +92,8 @@ taxonomies:
 title: Choosing the Curtains or Blinds for Your Space
 to_ping: ''
 type: post
+updated: 2020-03-02 15:10:09
+updated_gmt: 2020-03-02 15:10:09
 ---
 <span data-contrast="auto">If you just moved into your </span><span data-contrast="auto">new apartment</span><span data-contrast="auto">, you may be</span><span data-contrast="auto"> hanging out in front of some very exposed windows</span><span data-contrast="auto"> right now.</span><span data-contrast="auto"> (I </span><i><span data-contrast="auto">shutter</span></i><span data-contrast="auto"> at the thought!) Or maybe you just </span><span data-contrast="auto">want </span><span data-contrast="auto">to change </span><span data-contrast="auto">up</span><span data-contrast="auto"> your window coverings</span><span data-contrast="auto">. If the answer to your drapery desires is shrouded in mystery, </span><span data-contrast="auto">here are a few questions to ask yourself </span><span data-contrast="auto">that will make choosing the right curtain or blind an open</span><span data-contrast="auto">-</span><span data-contrast="auto">and</span><span data-contrast="auto">-</span><span data-contrast="auto">shut case</span><span data-contrast="auto">!</span>
 <h3>1. How should your space look and feel?</h3>

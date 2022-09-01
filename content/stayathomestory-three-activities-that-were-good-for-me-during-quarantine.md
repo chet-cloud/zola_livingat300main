@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2020-10-22 21:14:11
 date_gmt: 2020-10-22 21:14:11
+draft: false
 excerpt: 'The unexpected quarantine interrupted a lot of plans and changed the routines
   of many people. As I hear from my family, friends and coworkers, the isolation affected
   most of them. They had to deal with cancelled events, business closures, fear of
@@ -16,15 +17,12 @@ file_name: stayathomestory-three-activities-that-were-good-for-me-during-quarant
 guid: https://livingat300main.ca/?p=6324
 id: '6324'
 menu_order: '0'
-modified: 2020-10-22 21:14:11
-modified_gmt: 2020-10-22 21:14:11
 name: stayathomestory-three-activities-that-were-good-for-me-during-quarantine
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - 1-bedroom-apartment-in-winnipeg
@@ -97,6 +95,8 @@ taxonomies:
 title: '#StayAtHomeStory: Three Activities That Were Good for Me During Quarantine'
 to_ping: ''
 type: post
+updated: 2020-10-22 21:14:11
+updated_gmt: 2020-10-22 21:14:11
 ---
 <!-- wp:paragraph -->
 <p>The unexpected quarantine interrupted a lot of plans and changed the routines of many people. As I hear from my family, friends and coworkers, the isolation affected most of them. They had to deal with cancelled events, business closures, fear of losing their jobs, seeing family members every hour of the day, all that spare time nobody knew what to do with. It affected me as well, and while I (like everyone) have my own fears and doubts, I have to admit that the quarantine led to some positive changes for me, both mentally and physically.</p>

@@ -5,20 +5,18 @@ comment_status: open
 content_filtered: ''
 date: 2022-02-22 21:53:15
 date_gmt: 2022-02-22 21:53:15
+draft: false
 excerpt: ''
 file_name: the-best-vegan-recipes-to-cook-in-a-snowy-day.md
 guid: https://livingat300main.ca/?p=7136
 id: '7136'
 menu_order: '0'
-modified: 2022-02-22 21:53:15
-modified_gmt: 2022-02-22 21:53:15
 name: the-best-vegan-recipes-to-cook-in-a-snowy-day
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - apartment
@@ -36,6 +34,8 @@ taxonomies:
 title: The Best Vegan Recipes to Cook in a Snowy Day
 to_ping: ''
 type: post
+updated: 2022-02-22 21:53:15
+updated_gmt: 2022-02-22 21:53:15
 ---
 <!-- wp:paragraph -->
 <p>I know… it's still winter in Winnipeg… and I've never seen so much snow in my life. Living in Winnipeg taught me that there's nothing better than to get cozy when the winter gets rough! So if the officially comfort-food season is here to stay, these healthy vegan recipes are everything you need on a chilly day.</p>

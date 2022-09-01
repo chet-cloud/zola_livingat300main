@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2019-10-04 18:32:58
 date_gmt: 2019-10-04 18:32:58
+draft: false
 excerpt: Heated underground parking might seem like a luxury, but in Winnipeg it’s
   downright life-changing. I hate to even say the dreaded w word yet, but there are
   many perks to underground heated parking—especially during Winnipeg’s harsh winters!
@@ -13,15 +14,12 @@ file_name: perks-of-heated-parking.md
 guid: https://livingat300main.ca/?p=5871
 id: '5871'
 menu_order: '0'
-modified: 2019-10-04 18:32:58
-modified_gmt: 2019-10-04 18:32:58
 name: perks-of-heated-parking
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   category:
   - 300-main
@@ -31,6 +29,8 @@ taxonomies:
 title: Perks of Heated Parking
 to_ping: ''
 type: post
+updated: 2019-10-04 18:32:58
+updated_gmt: 2019-10-04 18:32:58
 ---
 Heated underground parking might seem like a luxury, but in Winnipeg it’s downright life-changing. I hate to even say the dreaded w word yet, but there are many perks to underground heated parking—especially during Winnipeg’s harsh winters! Here are some of the best reasons to look for parking underground.
 <h3>No More Morning Duties</h3>

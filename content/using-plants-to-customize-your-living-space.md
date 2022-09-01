@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2020-02-18 15:25:01
 date_gmt: 2020-02-18 15:25:01
+draft: false
 excerpt: |-
   I love garden centres. I always manage to discover something new and fresh – no pun intended!  They’re alive with greenery and full of rich colours. Most of all, they’re filled with ideas about how to bring a space to life, be it indoors or outdoors.
 
@@ -13,15 +14,12 @@ file_name: using-plants-to-customize-your-living-space.md
 guid: https://livingat300main.ca/?p=6233
 id: '6233'
 menu_order: '0'
-modified: 2020-02-18 15:25:01
-modified_gmt: 2020-02-18 15:25:01
 name: using-plants-to-customize-your-living-space
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - apartment
@@ -124,6 +122,8 @@ taxonomies:
 title: Using Plants to Customize Your Living Space
 to_ping: ''
 type: post
+updated: 2020-02-18 15:25:01
+updated_gmt: 2020-02-18 15:25:01
 ---
 <span data-contrast="none">I love garden </span><span data-contrast="none">centres</span><span data-contrast="none">. I always manage to discover something </span><span data-contrast="none">new and fresh—no </span><span data-contrast="none">pun intended!  They</span><span data-contrast="none">’re </span><span data-contrast="none">alive with greenery</span><span data-contrast="none"> and full of rich colours</span><span data-contrast="none">. </span><span data-contrast="none">M</span><span data-contrast="none">ost of all, they</span><span data-contrast="none">’re </span><span data-contrast="none">filled with ideas </span><span data-contrast="none">about </span><span data-contrast="none">how to bring a space to life</span><span data-contrast="none">,</span><span data-contrast="none"> be it indoors</span><span data-contrast="none"> or outdoors</span><span data-contrast="none">.</span>
 

@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2019-03-05 11:00:22
 date_gmt: 2019-03-05 11:00:22
+draft: false
 excerpt: I’m no design expert, but I like to think I have good taste, and I strongly
   believe that minimalism is the way forward. Not only does minimalism help reduce
   consumerism, but it helps you feel unburdened in the place that should matter most—home.
@@ -13,15 +14,12 @@ file_name: small-space-design-ideas.md
 guid: https://livingat300main.ca/?p=3391
 id: '3391'
 menu_order: '0'
-modified: 2019-03-05 11:00:22
-modified_gmt: 2019-03-05 11:00:22
 name: small-space-design-ideas
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - apartment
@@ -56,6 +54,8 @@ taxonomies:
 title: Small Space Design Ideas
 to_ping: ''
 type: post
+updated: 2019-03-05 11:00:22
+updated_gmt: 2019-03-05 11:00:22
 ---
 After spending two years studying, working, and falling in love in Scotland, in October I moved into a one-bedroom suite in the <a href="http://www.theboyceloftsonross.com/">Boyce Lofts</a> in the <a href="https://exchangedistrict.org/">Exchange District</a>. It was the first time I didn’t have to live with roommates, and the first time I didn’t have to move into a furnished apartment. The Boyce Lofts were brand new and no one had lived in the space before me. It was a blank canvas (and not just because of the white walls and white cabinetry), and I was so excited to decorate and furnish it just the way I wanted.
 

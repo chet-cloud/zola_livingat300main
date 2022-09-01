@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2018-11-29 11:00:48
 date_gmt: 2018-11-29 11:00:48
+draft: false
 excerpt: Every Winnipegger knows about the Winnipeg Art Gallery, the Canadian Museum
   for Human Rights and the Manitoba Museum, right? They are all lovely places to visit
   alone or with out-of-town guests, but your downtown options don’t end there! Once
@@ -14,15 +15,12 @@ file_name: three-hidden-cultural-gems-downtown.md
 guid: http://livingat300main.ca/?p=605
 id: '605'
 menu_order: '0'
-modified: 2018-11-29 11:00:48
-modified_gmt: 2018-11-29 11:00:48
 name: three-hidden-cultural-gems-downtown
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   category:
   - adventure
@@ -33,6 +31,8 @@ taxonomies:
 title: Three Hidden Cultural Gems Downtown
 to_ping: ''
 type: post
+updated: 2018-11-29 11:00:48
+updated_gmt: 2018-11-29 11:00:48
 ---
 Every Winnipegger knows about the <a href="https://www.wag.ca/">Winnipeg Art Gallery</a>, the <a href="https://humanrights.ca/">Canadian Museum for Human Rights</a> and the <a href="https://manitobamuseum.ca/main/">Manitoba Museum</a>, right? They are all lovely places to visit alone or with out-of-town guests, but your downtown options don’t end there! Once you've toured these greats, what other cultural gems can you visit? Here are three you may not know about.
 <h3><a href="http://oseredok.ca/">Oseredok</a>—A Chance to Witness Some Ukrainian Cultural Heritage</h3>

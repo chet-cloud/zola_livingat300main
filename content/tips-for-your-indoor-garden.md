@@ -5,20 +5,18 @@ comment_status: open
 content_filtered: ''
 date: 2022-04-06 17:49:37
 date_gmt: 2022-04-06 17:49:37
+draft: false
 excerpt: ''
 file_name: tips-for-your-indoor-garden.md
 guid: https://livingat300main.ca/?p=7611
 id: '7611'
 menu_order: '0'
-modified: 2022-04-06 17:49:37
-modified_gmt: 2022-04-06 17:49:37
 name: tips-for-your-indoor-garden
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - apartment
@@ -36,6 +34,8 @@ taxonomies:
 title: Tips For Your Indoor Garden
 to_ping: ''
 type: post
+updated: 2022-04-06 17:49:37
+updated_gmt: 2022-04-06 17:49:37
 ---
 <!-- wp:paragraph -->
 <p>You may think that you miss out on gardening when you live in a place with no yard. Indoor gardening is one of the best ways to get your green thumb going!</p>

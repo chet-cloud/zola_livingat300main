@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2018-10-29 20:35:02
 date_gmt: 2018-10-29 20:35:02
+draft: false
 excerpt: Downtown living can be exciting. You’re in the heart of the city with oodles
   of entertainment choices right outside your door. In your new digs at 300 Main,
   you will also have new neighbours, maybe more than you’ve ever had before.
@@ -12,15 +13,12 @@ file_name: wont-you-be-my-neighbour.md
 guid: http://livingat300main.ca/?p=181
 id: '181'
 menu_order: '0'
-modified: 2018-10-29 20:35:02
-modified_gmt: 2018-10-29 20:35:02
 name: wont-you-be-my-neighbour
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - acquaintances
@@ -83,6 +81,8 @@ taxonomies:
 title: Won't You Be My Neighbour?
 to_ping: ''
 type: post
+updated: 2018-10-29 20:35:02
+updated_gmt: 2018-10-29 20:35:02
 ---
 Downtown living can be exciting. You’re in the heart of the city with oodles of entertainment choices right outside your door. In your new digs at 300 Main, you will also have new neighbours, maybe more than you’ve ever had before. <span data-ccp-props="{}"> </span>
 

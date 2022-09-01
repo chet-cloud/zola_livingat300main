@@ -5,20 +5,18 @@ comment_status: open
 content_filtered: ''
 date: 2022-05-21 19:10:00
 date_gmt: 2022-05-21 19:10:00
+draft: false
 excerpt: Tips to prepare your Cat to move into a new Hhome
 file_name: preparing-your-cat-to-move-into-a-new-home.md
 guid: https://livingat300main.ca/?p=9898
 id: '9898'
 menu_order: '0'
-modified: 2022-05-21 19:10:00
-modified_gmt: 2022-05-21 19:10:00
 name: preparing-your-cat-to-move-into-a-new-home
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   category:
   - apartment-hacks
@@ -28,6 +26,8 @@ taxonomies:
 title: Preparing Your Cat To Move Into a New Home
 to_ping: ''
 type: post
+updated: 2022-05-21 19:10:00
+updated_gmt: 2022-05-21 19:10:00
 ---
 <!-- wp:paragraph -->
 <p>Moving is an exciting time for many people but preparing your cat to move into a new home can be tricky. </p>

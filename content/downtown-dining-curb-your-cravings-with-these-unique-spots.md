@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2019-03-12 11:00:41
 date_gmt: 2019-03-12 11:00:41
+draft: false
 excerpt: Winnipeg has slowly been gaining a reputation as a bastion of food innovation.
   By mixing many diverse cultures and knowing its audience, Winnipeg wins at the food
   game!
@@ -12,15 +13,12 @@ file_name: downtown-dining-curb-your-cravings-with-these-unique-spots.md
 guid: https://livingat300main.ca/?p=3446
 id: '3446'
 menu_order: '0'
-modified: 2019-03-12 11:00:41
-modified_gmt: 2019-03-12 11:00:41
 name: downtown-dining-curb-your-cravings-with-these-unique-spots
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - across-the-board-game-cafe
@@ -89,6 +87,8 @@ taxonomies:
 title: 'Downtown Dining: Curb Your Cravings with These Unique Spots'
 to_ping: ''
 type: post
+updated: 2019-03-12 11:00:41
+updated_gmt: 2019-03-12 11:00:41
 ---
 Winnipeg has slowly been gaining a <a href="https://www.cbc.ca/news/canada/manitoba/winnipeg-s-food-scene-a-standout-on-the-prairies-canadian-critic-says-1.3649824">reputation</a> as a bastion of food innovation. By mixing many diverse cultures and knowing its audience, Winnipeg wins at the food game! Looking for the perfect place for an indulgent cheat day, a romantic date night, or delicious food with a side of live entertainment? These downtown spots have got you covered!
 <h3><a href="http://peasantcookery.ca/">Peasant Cookery</a>: $$</h3>

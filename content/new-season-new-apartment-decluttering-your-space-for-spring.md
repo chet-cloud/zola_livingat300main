@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2019-03-20 20:13:11
 date_gmt: 2019-03-20 20:13:11
+draft: false
 excerpt: Whether you just finished binging Marie Kondo’s Netflix series or are just
   looking for a neater home, decluttering is a key part of spring cleaning. Follow
   these quick tips and you’ll feel like you have a new apartment by spring.
@@ -12,15 +13,12 @@ file_name: new-season-new-apartment-decluttering-your-space-for-spring.md
 guid: https://livingat300main.ca/?p=3612
 id: '3612'
 menu_order: '0'
-modified: 2019-03-20 20:13:11
-modified_gmt: 2019-03-20 20:13:11
 name: new-season-new-apartment-decluttering-your-space-for-spring
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - 300-main-apartments
@@ -61,6 +59,8 @@ taxonomies:
 title: 'New Season, New Apartment: Decluttering your Space for Spring'
 to_ping: ''
 type: post
+updated: 2019-03-20 20:13:11
+updated_gmt: 2019-03-20 20:13:11
 ---
 Whether you just finished binging Marie Kondo’s Netflix series or are just looking for a neater home, decluttering is a key part of spring cleaning.
 

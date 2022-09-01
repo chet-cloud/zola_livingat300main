@@ -5,20 +5,18 @@ comment_status: open
 content_filtered: ''
 date: 2021-08-05 15:02:32
 date_gmt: 2021-08-05 15:02:32
+draft: false
 excerpt: ''
 file_name: top-5-patios-in-downtown-winnipeg-2021-summer-edition.md
 guid: https://livingat300main.ca/?p=6913
 id: '6913'
 menu_order: '0'
-modified: 2021-08-05 15:02:32
-modified_gmt: 2021-08-05 15:02:32
 name: top-5-patios-in-downtown-winnipeg-2021-summer-edition
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - apartment-building-in-downtown-winnipeg
@@ -35,6 +33,8 @@ taxonomies:
 title: Top 5 patios in Downtown, Winnipeg - 2021 Summer Edition
 to_ping: ''
 type: post
+updated: 2021-08-05 15:02:32
+updated_gmt: 2021-08-05 15:02:32
 ---
 <!-- wp:paragraph -->
 <p>There are certain activities we associate with summertime only. It is not because such things as eating passion fruit gelato can be done in July particularly (after all, who would in a right mind choose that flavour during Christmas time?), but because choosing fruit flavours ice cream as well as eating on the patio makes sense in Winnipeg only during the hot season. </p>

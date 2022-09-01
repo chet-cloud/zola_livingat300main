@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2018-12-06 11:00:49
 date_gmt: 2018-12-06 11:00:49
+draft: false
 excerpt: Is your kitchen bursting at the seams? Don’t hide from your culinary creativity
   because of a mess! Here are five ways to keep your space from looking like a hurricane
   made landfall in your cupboards.
@@ -12,15 +13,12 @@ file_name: creative-ways-to-control-kitchen-clutter.md
 guid: http://livingat300main.ca/?p=570
 id: '570'
 menu_order: '0'
-modified: 2018-12-06 11:00:49
-modified_gmt: 2018-12-06 11:00:49
 name: creative-ways-to-control-kitchen-clutter
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - 300-main
@@ -49,6 +47,8 @@ taxonomies:
 title: Creative Ways to Control Kitchen Clutter
 to_ping: ''
 type: post
+updated: 2018-12-06 11:00:49
+updated_gmt: 2018-12-06 11:00:49
 ---
 Is your kitchen bursting at the seams? Don’t hide from your culinary creativity because of a mess! Here are five ways to keep your kitchen from looking like a hurricane made landfall in your cupboards.
 <h3>1. Learn to love your Tupperware</h3>

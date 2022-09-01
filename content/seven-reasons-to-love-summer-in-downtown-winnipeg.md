@@ -5,20 +5,18 @@ comment_status: open
 content_filtered: ''
 date: 2021-07-27 21:25:51
 date_gmt: 2021-07-27 21:25:51
+draft: false
 excerpt: ''
 file_name: seven-reasons-to-love-summer-in-downtown-winnipeg.md
 guid: https://livingat300main.ca/?p=6852
 id: '6852'
 menu_order: '0'
-modified: 2021-07-27 21:25:51
-modified_gmt: 2021-07-27 21:25:51
 name: seven-reasons-to-love-summer-in-downtown-winnipeg
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - apartment-building-in-downtown-winnipeg
@@ -35,6 +33,8 @@ taxonomies:
 title: Seven Reasons to Love Summer in Downtown Winnipeg
 to_ping: ''
 type: post
+updated: 2021-07-27 21:25:51
+updated_gmt: 2021-07-27 21:25:51
 ---
 <!-- wp:paragraph -->
 <p>Winnipeg in summer can be a glorious place. We get lots of sunshine and there are plenty of things to do. Many people think of great summer adventures outside of our city, as we have wonderful parks and other outdoor spaces. But don’t be fooled. Downtown has its charms and attractions too.</p>

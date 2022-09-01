@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2019-10-25 17:57:22
 date_gmt: 2019-10-25 17:57:22
+draft: false
 excerpt: Does the idea of furniture shopping bring you feelings of glee—or dread?
   Even if it’s not your favourite thing, choose furniture carefully to ensure you
   have a happy, comfortable abode. There is no one style that will suit everyone,
@@ -13,15 +14,12 @@ file_name: furnishing-hearth-and-home.md
 guid: https://livingat300main.ca/?p=5943
 id: '5943'
 menu_order: '0'
-modified: 2019-10-25 17:57:22
-modified_gmt: 2019-10-25 17:57:22
 name: furnishing-hearth-and-home
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   category:
   - apartment
@@ -32,6 +30,8 @@ taxonomies:
 title: Furnishing Hearth and Home
 to_ping: ''
 type: post
+updated: 2019-10-25 17:57:22
+updated_gmt: 2019-10-25 17:57:22
 ---
 Does the idea of furniture shopping bring you feelings of glee—or dread? Even if it’s not your favourite thing, choose furniture carefully to ensure you have a happy, comfortable abode. There is no one style that will suit everyone, so let’s look at some things you should consider before you furnish your digs.
 <h3>The Living Room</h3>

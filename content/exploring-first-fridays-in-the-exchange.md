@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2019-01-03 11:00:14
 date_gmt: 2019-01-03 11:00:14
+draft: false
 excerpt: On the first Friday of every month, Winnipeg’s Exchange District comes alive
   as galleries, restaurants, and boutiques open their doors after-hours to welcome
   art and culture lovers. In December, I left the comfort of my warm couch to venture
@@ -13,15 +14,12 @@ file_name: exploring-first-fridays-in-the-exchange.md
 guid: https://livingat300main.ca/?p=2560
 id: '2560'
 menu_order: '0'
-modified: 2019-01-03 11:00:14
-modified_gmt: 2019-01-03 11:00:14
 name: exploring-first-fridays-in-the-exchange
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - 7th-annual-exhibition-of-12-local-artists
@@ -56,6 +54,8 @@ taxonomies:
 title: Exploring First Fridays in the Exchange
 to_ping: ''
 type: post
+updated: 2019-01-03 11:00:14
+updated_gmt: 2019-01-03 11:00:14
 ---
 On the first Friday of every month, <a href="https://www.exchangedistrict.org/">Winnipeg’s Exchange District</a> comes alive as galleries, restaurants, and boutiques open their doors after-hours to welcome art and culture lovers. In December, I left the comfort of my warm couch to venture out for the last <a href="https://www.firstfridayswinnipeg.org/">First Fridays</a> of 2018.
 

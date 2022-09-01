@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2019-07-24 15:42:08
 date_gmt: 2019-07-24 15:42:08
+draft: false
 excerpt: Cleaning your home naturally is no more difficult that cleaning it with harsh
   chemicals. In fact, homemade cleaning supplies are better for your wallet, last
   longer, and help keep toxins out of your downtown oasis! Here are some of my favourite
@@ -13,15 +14,12 @@ file_name: how-to-make-your-own-natural-cleaning-supplies.md
 guid: https://livingat300main.ca/?p=5433
 id: '5433'
 menu_order: '0'
-modified: 2019-07-24 15:42:08
-modified_gmt: 2019-07-24 15:42:08
 name: how-to-make-your-own-natural-cleaning-supplies
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - air-freshener
@@ -94,6 +92,8 @@ taxonomies:
 title: How to Make Your Own Natural Cleaning Supplies
 to_ping: ''
 type: post
+updated: 2019-07-24 15:42:08
+updated_gmt: 2019-07-24 15:42:08
 ---
 Cleaning your home naturally is no more difficult that cleaning it with harsh chemicals. In fact, homemade cleaning supplies are better for your wallet, last longer, and help keep toxins out of your downtown oasis! Here are some of my favourite homemade cleaning supply formulas.
 

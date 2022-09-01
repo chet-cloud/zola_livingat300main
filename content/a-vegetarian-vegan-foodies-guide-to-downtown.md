@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2019-06-07 15:06:46
 date_gmt: 2019-06-07 15:06:46
+draft: false
 excerpt: Downtown Winnipeg has a lot of restaurants to choose from, but us vegetarian
   or vegan foodies often need to ask ourselves, “But can I eat there?” Here’s a list
   of the vegan and vegetarian places that I frequent the most and find the most impressive!
@@ -12,15 +13,12 @@ file_name: a-vegetarian-vegan-foodies-guide-to-downtown.md
 guid: https://livingat300main.ca/?p=4698
 id: '4698'
 menu_order: '0'
-modified: 2019-06-07 15:06:46
-modified_gmt: 2019-06-07 15:06:46
 name: a-vegetarian-vegan-foodies-guide-to-downtown
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - acorn-cafe
@@ -124,6 +122,8 @@ taxonomies:
 title: A Vegetarian/Vegan Foodie’s Guide to Downtown
 to_ping: ''
 type: post
+updated: 2019-06-07 15:06:46
+updated_gmt: 2019-06-07 15:06:46
 ---
 Downtown Winnipeg has a lot of restaurants to choose from, but us vegetarian or vegan foodies often need to ask ourselves, “But can I eat there?” Here’s a list of the vegan and vegetarian places that I frequent the most and find the most impressive!
 <h3><a href="https://boonburger.ca/">Boon Burger</a> $$</h3>

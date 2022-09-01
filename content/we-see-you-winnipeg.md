@@ -5,20 +5,18 @@ comment_status: open
 content_filtered: ''
 date: 2018-10-21 04:08:37
 date_gmt: 2018-10-21 04:08:37
+draft: false
 excerpt: ''
 file_name: we-see-you-winnipeg.md
 guid: http://livingat300main.ca/?p=415
 id: '415'
 menu_order: '0'
-modified: 2018-10-21 04:08:37
-modified_gmt: 2018-10-21 04:08:37
 name: we-see-you-winnipeg
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   category:
   - 300-main
@@ -29,6 +27,8 @@ taxonomies:
 title: We see you Winnipeg.
 to_ping: ''
 type: post
+updated: 2018-10-21 04:08:37
+updated_gmt: 2018-10-21 04:08:37
 ---
 [embed]https://youtu.be/n8lLwdEn8U4[/embed]
 

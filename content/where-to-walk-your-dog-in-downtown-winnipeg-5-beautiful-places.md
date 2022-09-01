@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2019-01-31 11:00:54
 date_gmt: 2019-01-31 11:00:54
+draft: false
 excerpt: Having a dog while living downtown is a great motivator to get outside, see
   other people, and experience small daily bits of fun. Walking your dog in the downtown
   helps you feel like you’re instantly part of a community of dog owners. Dogs are
@@ -14,15 +15,12 @@ file_name: where-to-walk-your-dog-in-downtown-winnipeg-5-beautiful-places.md
 guid: https://livingat300main.ca/?p=2959
 id: '2959'
 menu_order: '0'
-modified: 2019-01-31 11:00:54
-modified_gmt: 2019-01-31 11:00:54
 name: where-to-walk-your-dog-in-downtown-winnipeg-5-beautiful-places
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   category:
   - 300-main
@@ -34,6 +32,8 @@ taxonomies:
 title: 'Where to Walk Your Dog in Downtown Winnipeg: 5 Beautiful Places'
 to_ping: ''
 type: post
+updated: 2019-01-31 11:00:54
+updated_gmt: 2019-01-31 11:00:54
 ---
 Having a dog while living downtown is a great motivator to get outside, see other people, and experience small daily bits of fun. Walking your dog in the downtown helps you feel like you’re instantly part of a community of dog owners. Dogs are great companions; they’re your best friend, and keep you warm on a cold winter night. On a bad day, a doggie tail wiggle will definitely cheer you up.
 

@@ -5,20 +5,18 @@ comment_status: open
 content_filtered: ''
 date: 2022-04-12 21:08:13
 date_gmt: 2022-04-12 21:08:13
+draft: true
 excerpt: ''
 file_name: win-tickets-to-paul-shaffer-the-wso.md
 guid: https://livingat300main.ca/?p=7680
 id: '7680'
 menu_order: '0'
-modified: 2022-04-12 21:08:13
-modified_gmt: 2022-04-12 21:08:13
 name: win-tickets-to-paul-shaffer-the-wso
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: draft
 taxonomies:
   post_tag:
   - centennial-hall
@@ -34,6 +32,8 @@ taxonomies:
 title: Win Tickets to Paul Shaffer & the WSO
 to_ping: ''
 type: post
+updated: 2022-04-12 21:08:13
+updated_gmt: 2022-04-12 21:08:13
 ---
 <!-- wp:paragraph -->
 <p>We partnered with Winnipeg Symphony Orchestra to give a lucky follower a pair if tickets to see Paul Shaffer and the WSO at Centennial Hall!</p>

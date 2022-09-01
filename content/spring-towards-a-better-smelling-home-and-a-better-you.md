@@ -5,20 +5,18 @@ comment_status: open
 content_filtered: ''
 date: 2022-03-17 17:02:57
 date_gmt: 2022-03-17 17:02:57
+draft: false
 excerpt: ''
 file_name: spring-towards-a-better-smelling-home-and-a-better-you.md
 guid: https://livingat300main.ca/?p=7564
 id: '7564'
 menu_order: '0'
-modified: 2022-03-17 17:02:57
-modified_gmt: 2022-03-17 17:02:57
 name: spring-towards-a-better-smelling-home-and-a-better-you
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - apartment
@@ -36,6 +34,8 @@ taxonomies:
 title: Spring towards a better smelling home - and a better you
 to_ping: ''
 type: post
+updated: 2022-03-17 17:02:57
+updated_gmt: 2022-03-17 17:02:57
 ---
 <!-- wp:paragraph -->
 <p>Our mood and energy levels can be impacted greatly by how our environment smells. If your living space smells great, don’t be surprised if you catch yourself in a better mood, feel more positive about life, and be more focused on what you need to get done.</p>

@@ -5,20 +5,18 @@ comment_status: open
 content_filtered: ''
 date: 2022-05-06 18:51:12
 date_gmt: 2022-05-06 18:51:12
+draft: false
 excerpt: ''
 file_name: weekend-getaways-manitoba-spring-edition.md
 guid: https://livingat300main.ca/?p=7899
 id: '7899'
 menu_order: '0'
-modified: 2022-05-06 18:51:12
-modified_gmt: 2022-05-06 18:51:12
 name: weekend-getaways-manitoba-spring-edition
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   category:
   - adventure
@@ -28,6 +26,8 @@ taxonomies:
 title: Spring Getaways in Manitoba
 to_ping: ''
 type: post
+updated: 2022-05-06 18:51:12
+updated_gmt: 2022-05-06 18:51:12
 ---
 <!-- wp:paragraph -->
 <p>Manitoba is full of amazing adventures not only just within the walls of Winnipeg but outside of them as well, so it's time to check the definitive guide for Weekend Getaways in Manitoba- Spring Edition. There is much to see and do and do this <a href="https://livingat300main.ca/do-you-have-a-spring-in-your-step-its-spring-in-downtown-winnipeg/" target="_blank" rel="noreferrer noopener">Spring</a> to get you out of the city and explore all Manitoba has to offer. </p>

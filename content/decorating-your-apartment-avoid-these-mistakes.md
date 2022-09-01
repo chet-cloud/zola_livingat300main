@@ -5,20 +5,18 @@ comment_status: open
 content_filtered: ''
 date: 2021-04-01 19:32:12
 date_gmt: 2021-04-01 19:32:12
+draft: false
 excerpt: ''
 file_name: decorating-your-apartment-avoid-these-mistakes.md
 guid: https://livingat300main.ca/?p=6509
 id: '6509'
 menu_order: '0'
-modified: 2021-04-01 19:32:12
-modified_gmt: 2021-04-01 19:32:12
 name: decorating-your-apartment-avoid-these-mistakes
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - apartment-building-in-downtown-winnipeg
@@ -35,6 +33,8 @@ taxonomies:
 title: Decorating Your Apartment? Avoid these mistakes
 to_ping: ''
 type: post
+updated: 2021-04-01 19:32:12
+updated_gmt: 2021-04-01 19:32:12
 ---
 <!-- wp:paragraph -->
 <p>Until I moved into my first apartment&nbsp;as a student, I&nbsp;had no idea how much I would love interior design.&nbsp;To me, my furniture-less&nbsp;flat&nbsp;was an&nbsp;unfinished project&nbsp;that I itched to&nbsp;turn into a delightful&nbsp;home.&nbsp;It held&nbsp;nothing but kitchen appliances and a window with a grand view&nbsp;of downtown.&nbsp;&nbsp;</p>

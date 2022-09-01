@@ -5,20 +5,18 @@ comment_status: open
 content_filtered: ''
 date: 2022-06-06 14:49:00
 date_gmt: 2022-06-06 14:49:00
+draft: false
 excerpt: ''
 file_name: to-bark-or-not-to-bark-5-basic-steps-to-successful-training-your-dog.md
 guid: https://livingat300main.ca/?p=9936
 id: '9936'
 menu_order: '0'
-modified: 2022-06-06 14:49:00
-modified_gmt: 2022-06-06 14:49:00
 name: to-bark-or-not-to-bark-5-basic-steps-to-successful-training-your-dog
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   category:
   - apartment-hacks
@@ -28,6 +26,8 @@ taxonomies:
 title: To Bark or not To Bark - 5 Basic Steps to Successful Training your Dog
 to_ping: ''
 type: post
+updated: 2022-06-06 14:49:00
+updated_gmt: 2022-06-06 14:49:00
 ---
 <!-- wp:paragraph -->
 <p>It seems like our dogs will bark for just about anything and everything so the article To Bark or not To Bark - 5 Basic Steps to Successful Training your Dog can help you. </p>

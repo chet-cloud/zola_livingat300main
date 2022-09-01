@@ -5,20 +5,18 @@ comment_status: open
 content_filtered: ''
 date: 2022-03-11 21:32:19
 date_gmt: 2022-03-11 21:32:19
+draft: false
 excerpt: ''
 file_name: st-patricks-day-celebration-ideas-winnipeg-edition.md
 guid: https://livingat300main.ca/?p=7525
 id: '7525'
 menu_order: '0'
-modified: 2022-03-11 21:32:19
-modified_gmt: 2022-03-11 21:32:19
 name: st-patricks-day-celebration-ideas-winnipeg-edition
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - apartment
@@ -36,6 +34,8 @@ taxonomies:
 title: St Patricks Day Celebration Ideas - Winnipeg Edition
 to_ping: ''
 type: post
+updated: 2022-03-11 21:32:19
+updated_gmt: 2022-03-11 21:32:19
 ---
 <!-- wp:paragraph -->
 <p>St Patrick’s Day 2022 is right around the corner! </p>

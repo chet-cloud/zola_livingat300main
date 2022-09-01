@@ -5,20 +5,18 @@ comment_status: open
 content_filtered: ''
 date: 2021-12-13 19:15:45
 date_gmt: 2021-12-13 19:15:45
+draft: false
 excerpt: ''
 file_name: how-to-plan-a-christmas-party-winnipeg-edition.md
 guid: https://livingat300main.ca/?p=7267
 id: '7267'
 menu_order: '0'
-modified: 2021-12-13 19:15:45
-modified_gmt: 2021-12-13 19:15:45
 name: how-to-plan-a-christmas-party-winnipeg-edition
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - apartment
@@ -36,6 +34,8 @@ taxonomies:
 title: 'How to plan a Christmas party: Winnipeg Edition'
 to_ping: ''
 type: post
+updated: 2021-12-13 19:15:45
+updated_gmt: 2021-12-13 19:15:45
 ---
 <!-- wp:paragraph -->
 <p>You can smell it in the air – the hustle and bustle of the Christmas season. The stores are buzzing, your online shopping wishlist has been sent to Santa, everyone has booked their tickets home, and oops, you’ve got two weeks to plan a Christmas party! What better way is there to ring in the holiday than with your best and brightest around a table for a couple of sips and a few bites to eat, right?</p>

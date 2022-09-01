@@ -5,20 +5,18 @@ comment_status: open
 content_filtered: ''
 date: 2022-05-27 15:00:00
 date_gmt: 2022-05-27 15:00:00
+draft: false
 excerpt: ''
 file_name: gardens-to-visit-in-winnipeg.md
 guid: https://livingat300main.ca/?p=9920
 id: '9920'
 menu_order: '0'
-modified: 2022-05-27 15:00:00
-modified_gmt: 2022-05-27 15:00:00
 name: gardens-to-visit-in-winnipeg
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   category:
   - adventure
@@ -28,6 +26,8 @@ taxonomies:
 title: Gardens to Visit in Winnipeg
 to_ping: ''
 type: post
+updated: 2022-05-27 15:00:00
+updated_gmt: 2022-05-27 15:00:00
 ---
 <!-- wp:paragraph -->
 <p>Shine some sun on your winter blues by checking one of the gardens to visit in Winnipeg. Now that the grey winter days are long gone, spring has sprung, and we are eager to get out and enjoy nature to the fullest this season. </p>

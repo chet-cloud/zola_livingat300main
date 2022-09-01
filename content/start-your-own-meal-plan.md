@@ -5,20 +5,18 @@ comment_status: open
 content_filtered: ''
 date: 2021-04-23 00:01:42
 date_gmt: 2021-04-23 00:01:42
+draft: false
 excerpt: ''
 file_name: start-your-own-meal-plan.md
 guid: https://livingat300main.ca/?p=6622
 id: '6622'
 menu_order: '0'
-modified: 2021-04-23 00:01:42
-modified_gmt: 2021-04-23 00:01:42
 name: start-your-own-meal-plan
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - apartment-building-in-downtown-winnipeg
@@ -35,6 +33,8 @@ taxonomies:
 title: Start Your Own Meal Plan
 to_ping: ''
 type: post
+updated: 2021-04-23 00:01:42
+updated_gmt: 2021-04-23 00:01:42
 ---
 <!-- wp:paragraph -->
 <p>“What’s for dinner?” is that incessant question that never seems to go away, kind of like those piles of dishes and laundry that keep reappearing. Plus, we’ve got breakfast and lunch to contend with as well, now that we’re spending more time at home than ever.  </p>

@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2019-09-10 21:29:09
 date_gmt: 2019-09-10 21:29:09
+draft: false
 excerpt: 'To your right: an empty wall. To your left—another one. You’re surrounded
   by large, blank walls. The walls of your new apartment are the bones of the space
   that you have decided works best for you. Now that you’ve moved in, they need some
@@ -13,15 +14,12 @@ file_name: no-nail-holes-decorating-your-new-apartment.md
 guid: https://livingat300main.ca/?p=5811
 id: '5811'
 menu_order: '0'
-modified: 2019-09-10 21:29:09
-modified_gmt: 2019-09-10 21:29:09
 name: no-nail-holes-decorating-your-new-apartment
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - 300-main-apartments
@@ -65,6 +63,8 @@ taxonomies:
 title: 'No Nail Holes: Decorating Your New Apartment'
 to_ping: ''
 type: post
+updated: 2019-09-10 21:29:09
+updated_gmt: 2019-09-10 21:29:09
 ---
 To your right: an empty wall. To your left—another one. You’re surrounded by large, blank walls. The walls of your new apartment are the bones of the space that you have decided works best for you. Now that you’ve moved in, they need some attention to personalize your new home and make it truly yours.
 

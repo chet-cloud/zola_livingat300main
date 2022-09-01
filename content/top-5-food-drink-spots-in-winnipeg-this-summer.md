@@ -5,20 +5,18 @@ comment_status: open
 content_filtered: ''
 date: 2022-07-26 18:13:06
 date_gmt: 2022-07-26 18:13:06
+draft: false
 excerpt: ''
 file_name: top-5-food-drink-spots-in-winnipeg-this-summer.md
 guid: https://livingat300main.ca/?p=10314
 id: '10314'
 menu_order: '0'
-modified: 2022-07-26 18:13:06
-modified_gmt: 2022-07-26 18:13:06
 name: top-5-food-drink-spots-in-winnipeg-this-summer
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - downtown-winnipeg
@@ -29,6 +27,8 @@ taxonomies:
 title: Top 5 Food & Drink Spots in Winnipeg this Summer
 to_ping: ''
 type: post
+updated: 2022-07-26 18:13:06
+updated_gmt: 2022-07-26 18:13:06
 ---
 <!-- wp:paragraph -->
 <p></p>

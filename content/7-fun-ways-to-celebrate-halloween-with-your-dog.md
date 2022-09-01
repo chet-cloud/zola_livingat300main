@@ -5,20 +5,18 @@ comment_status: open
 content_filtered: ''
 date: 2021-10-05 15:49:00
 date_gmt: 2021-10-05 15:49:00
+draft: false
 excerpt: ''
 file_name: 7-fun-ways-to-celebrate-halloween-with-your-dog.md
 guid: https://livingat300main.ca/?p=7090
 id: '7090'
 menu_order: '0'
-modified: 2021-10-05 15:49:00
-modified_gmt: 2021-10-05 15:49:00
 name: 7-fun-ways-to-celebrate-halloween-with-your-dog
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - apartment
@@ -35,6 +33,8 @@ taxonomies:
 title: 7 Fun ways To Celebrate Halloween with your Dog
 to_ping: ''
 type: post
+updated: 2021-10-05 15:49:00
+updated_gmt: 2021-10-05 15:49:00
 ---
 <!-- wp:paragraph -->
 <p>There is something about fall that brings Winnipeg to life more than any other season. It is a great time full of crisp excellent weather, beautiful fall scenery, and best of all, the fact that Halloween is hiding right around the corner! With this haunted holiday creeping closer it is no doubt that people are very eager to get out and get spooky! With so many fun events to celebrate the season popping up, there are lots of ways to get the heebie-jeebies! While all these events are amazing, pet owners don't want their dogs to miss out by having to leave them at home. Like every holiday, pet owners want to enjoy this time of year with the company of their canine companions to enjoy the haunted times and beautiful weather together.</p>

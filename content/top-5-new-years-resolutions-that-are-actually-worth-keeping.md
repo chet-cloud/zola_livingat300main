@@ -5,20 +5,18 @@ comment_status: open
 content_filtered: ''
 date: 2021-12-31 15:22:32
 date_gmt: 2021-12-31 15:22:32
+draft: false
 excerpt: ''
 file_name: top-5-new-years-resolutions-that-are-actually-worth-keeping.md
 guid: https://livingat300main.ca/?p=7330
 id: '7330'
 menu_order: '0'
-modified: 2021-12-31 15:22:32
-modified_gmt: 2021-12-31 15:22:32
 name: top-5-new-years-resolutions-that-are-actually-worth-keeping
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - apartment
@@ -36,6 +34,8 @@ taxonomies:
 title: Top 5 New Year's resolutions that are actually worth keeping
 to_ping: ''
 type: post
+updated: 2021-12-31 15:22:32
+updated_gmt: 2021-12-31 15:22:32
 ---
 <!-- wp:paragraph -->
 <p>Happy new year! Are you thinking about setting resolutions for 2022? With all the lockdown and pandemic talk (still) happening, this might be more difficult than in previous years. Are the gyms going to close again? Will I be able to start that new food lifestyle? Will I even be able to make it to Tulum this year?</p>

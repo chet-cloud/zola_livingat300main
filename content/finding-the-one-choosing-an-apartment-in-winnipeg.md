@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2019-02-07 11:00:16
 date_gmt: 2019-02-07 11:00:16
+draft: false
 excerpt: Finding a new space to call home is an undertaking that can require serious
   time and energy. But apartment hunting can also be fun and exhilarating! With a
   bit of planning, you can avoid a headache and find a home you’re ready to commit
@@ -13,15 +14,12 @@ file_name: finding-the-one-choosing-an-apartment-in-winnipeg.md
 guid: https://livingat300main.ca/?p=2963
 id: '2963'
 menu_order: '0'
-modified: 2019-02-07 11:00:16
-modified_gmt: 2019-02-07 11:00:16
 name: finding-the-one-choosing-an-apartment-in-winnipeg
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   category:
   - 300-main
@@ -34,6 +32,8 @@ taxonomies:
 title: 'Finding the One: Choosing an Apartment in Winnipeg'
 to_ping: ''
 type: post
+updated: 2019-02-07 11:00:16
+updated_gmt: 2019-02-07 11:00:16
 ---
 Finding a new space to call home is an undertaking that can require serious time and energy. But apartment hunting can also be fun and exhilarating! With a bit of planning, you can avoid a headache and find a home you’re ready to commit to—at least until the lease is up.
 <h4>Scope out the Neighbourhood</h4>

@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2019-09-05 20:16:22
 date_gmt: 2019-09-05 20:16:22
+draft: false
 excerpt: History buffs, artists, music lovers, adventurers, fitness nuts and families,
   rejoice! Packed with culture and entertainment, downtown Winnipeg is a “choose your
   own adventure” story waiting to happen.
@@ -12,15 +13,12 @@ file_name: your-downtown-winnipeg-to-do-list.md
 guid: https://livingat300main.ca/?p=5790
 id: '5790'
 menu_order: '0'
-modified: 2019-09-05 20:16:22
-modified_gmt: 2019-09-05 20:16:22
 name: your-downtown-winnipeg-to-do-list
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - aboriginal-day-live
@@ -114,6 +112,8 @@ taxonomies:
 title: Your Downtown Winnipeg To-Do List
 to_ping: ''
 type: post
+updated: 2019-09-05 20:16:22
+updated_gmt: 2019-09-05 20:16:22
 ---
 History buffs, artists, music lovers, adventurers, fitness nuts and families, rejoice! Packed with culture and entertainment, downtown Winnipeg is a “choose your own adventure” story waiting to happen. Squeeze every drop of fun that you can out of the next few weeks of warm weather with this round-up of things to do downtown in the summer.
 <h3>Snack, Shop, and Salsa at The Forks</h3>

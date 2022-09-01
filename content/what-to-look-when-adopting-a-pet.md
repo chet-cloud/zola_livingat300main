@@ -5,20 +5,18 @@ comment_status: open
 content_filtered: ''
 date: 2021-11-03 19:50:40
 date_gmt: 2021-11-03 19:50:40
+draft: false
 excerpt: ''
 file_name: what-to-look-when-adopting-a-pet.md
 guid: https://livingat300main.ca/?p=7145
 id: '7145'
 menu_order: '0'
-modified: 2021-11-03 19:50:40
-modified_gmt: 2021-11-03 19:50:40
 name: what-to-look-when-adopting-a-pet
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - apartment
@@ -37,6 +35,8 @@ taxonomies:
 title: What to look when adopting a pet
 to_ping: ''
 type: post
+updated: 2021-11-03 19:50:40
+updated_gmt: 2021-11-03 19:50:40
 ---
 <!-- wp:image {"id":7147,"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large"><img src="https://livingat300main.ca/wp-content/uploads/2021/11/pexels-helena-lopes-1904105-1024x646.jpg" alt="" class="wp-image-7147"/></figure>

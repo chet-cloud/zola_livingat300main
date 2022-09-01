@@ -5,20 +5,18 @@ comment_status: open
 content_filtered: ''
 date: 2022-02-02 15:45:38
 date_gmt: 2022-02-02 15:45:38
+draft: false
 excerpt: ''
 file_name: tips-for-organizing-your-linen-closet.md
 guid: https://livingat300main.ca/?p=7425
 id: '7425'
 menu_order: '0'
-modified: 2022-02-02 15:45:38
-modified_gmt: 2022-02-02 15:45:38
 name: tips-for-organizing-your-linen-closet
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - apartment
@@ -36,6 +34,8 @@ taxonomies:
 title: Tips for organizing your linen closet
 to_ping: ''
 type: post
+updated: 2022-02-02 15:45:38
+updated_gmt: 2022-02-02 15:45:38
 ---
 <!-- wp:paragraph -->
 <p>Spending more time at home has probably meant that you have had more time to rethink your space. Do you have enough storage? Is there a better place to put that shelf? How many times can someone rearrange their living room? </p>

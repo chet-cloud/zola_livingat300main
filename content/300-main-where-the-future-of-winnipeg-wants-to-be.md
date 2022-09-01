@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2019-06-20 10:00:00
 date_gmt: 2019-06-20 10:00:00
+draft: false
 excerpt: Not only is downtown Winnipeg—home of arguably the best restaurants, historical
   architecture, and free live entertainment in the city—the future of Winnipeg and
   its economy, soon it will be home to the people that will help create that future!
@@ -12,15 +13,12 @@ file_name: 300-main-where-the-future-of-winnipeg-wants-to-be.md
 guid: https://livingat300main.ca/?p=4722
 id: '4722'
 menu_order: '0'
-modified: 2019-06-20 10:00:00
-modified_gmt: 2019-06-20 10:00:00
 name: 300-main-where-the-future-of-winnipeg-wants-to-be
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   category:
   - 300-main
@@ -30,6 +28,8 @@ taxonomies:
 title: 300 Main, Where the Future of Winnipeg Wants to Be
 to_ping: ''
 type: post
+updated: 2019-06-20 10:00:00
+updated_gmt: 2019-06-20 10:00:00
 ---
 Not only is downtown Winnipeg—home of arguably the best restaurants, historical architecture, and free live entertainment in the city—the future of Winnipeg and its economy, soon it will be home to the people that will help create that future!
 

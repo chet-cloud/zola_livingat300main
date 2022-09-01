@@ -5,20 +5,18 @@ comment_status: open
 content_filtered: ''
 date: 2022-03-03 19:02:46
 date_gmt: 2022-03-03 19:02:46
+draft: false
 excerpt: ''
 file_name: benefits-of-living-in-a-central-location.md
 guid: https://livingat300main.ca/?p=7465
 id: '7465'
 menu_order: '0'
-modified: 2022-03-03 19:02:46
-modified_gmt: 2022-03-03 19:02:46
 name: benefits-of-living-in-a-central-location
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   category:
   - 300-main
@@ -28,6 +26,8 @@ taxonomies:
 title: Benefits of Living in a Central Location
 to_ping: ''
 type: post
+updated: 2022-03-03 19:02:46
+updated_gmt: 2022-03-03 19:02:46
 ---
 <!-- wp:image {"id":7473,"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large"><img src="https://livingat300main.ca/wp-content/uploads/2022/02/office-worker-active-and-healthy-lifestyle-in-urb-2021-09-02-07-21-01-utc-1024x683.jpg" alt="" class="wp-image-7473"/></figure>

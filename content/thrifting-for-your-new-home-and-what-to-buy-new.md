@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2019-10-31 20:25:07
 date_gmt: 2019-10-31 20:25:07
+draft: false
 excerpt: As the Marie Kondo craze sweeps the nation, everyone is decluttering their
   household belongings. There’s never been a better time to take advantage of the
   overflowing thrift stores to deck out your own space. Shopping secondhand is a win
@@ -13,15 +14,12 @@ file_name: thrifting-for-your-new-home-and-what-to-buy-new.md
 guid: https://livingat300main.ca/?p=5980
 id: '5980'
 menu_order: '0'
-modified: 2019-10-31 20:25:07
-modified_gmt: 2019-10-31 20:25:07
 name: thrifting-for-your-new-home-and-what-to-buy-new
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   category:
   - apartment
@@ -32,6 +30,8 @@ taxonomies:
 title: Thrifting for Your New Home (And What To Buy New)
 to_ping: ''
 type: post
+updated: 2019-10-31 20:25:07
+updated_gmt: 2019-10-31 20:25:07
 ---
 As the <a href="https://konmari.com/">Marie Kondo</a> craze sweeps the nation, everyone is decluttering their household belongings. There’s never been a better time to take advantage of the overflowing thrift stores to deck out your own space. Shopping secondhand is a win for your planet, your community, and your wallet. Now that sparks joy!
 <h3>Why Thrift?</h3>

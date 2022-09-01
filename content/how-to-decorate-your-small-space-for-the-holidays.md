@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2019-11-29 22:05:40
 date_gmt: 2019-11-29 22:05:40
+draft: false
 excerpt: Holiday decorating is one of the best parts of winter, and living in a tiny
   apartment shouldn’t mean you have to miss out! Decorating for the holidays in a
   small space can be tricky, so we’re here to help with a collection of festive ideas.
@@ -12,15 +13,12 @@ file_name: how-to-decorate-your-small-space-for-the-holidays.md
 guid: https://livingat300main.ca/?p=6083
 id: '6083'
 menu_order: '0'
-modified: 2019-11-29 22:05:40
-modified_gmt: 2019-11-29 22:05:40
 name: how-to-decorate-your-small-space-for-the-holidays
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   category:
   - apartment
@@ -30,6 +28,8 @@ taxonomies:
 title: How to Decorate your Small Space for the Holidays
 to_ping: ''
 type: post
+updated: 2019-11-29 22:05:40
+updated_gmt: 2019-11-29 22:05:40
 ---
 Holiday decorating is one of the best parts of winter, and living in a tiny apartment shouldn’t mean you have to miss out! Decorating for the holidays in a small space can be tricky, so we’re here to help with a collection of festive ideas.
 

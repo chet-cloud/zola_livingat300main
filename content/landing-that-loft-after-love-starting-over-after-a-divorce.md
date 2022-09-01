@@ -5,20 +5,18 @@ comment_status: open
 content_filtered: ''
 date: 2021-07-02 19:57:56
 date_gmt: 2021-07-02 19:57:56
+draft: false
 excerpt: ''
 file_name: landing-that-loft-after-love-starting-over-after-a-divorce.md
 guid: https://livingat300main.ca/?p=6799
 id: '6799'
 menu_order: '0'
-modified: 2021-07-02 19:57:56
-modified_gmt: 2021-07-02 19:57:56
 name: landing-that-loft-after-love-starting-over-after-a-divorce
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   category:
   - apartment
@@ -29,6 +27,8 @@ taxonomies:
 title: 'Landing that Loft After Love: Starting Over After a Divorce'
 to_ping: ''
 type: post
+updated: 2021-07-02 19:57:56
+updated_gmt: 2021-07-02 19:57:56
 ---
 <!-- wp:paragraph -->
 <p>So, divorce wasn’t exactly in your life plan. I think it’s safe to say it’s not in most of ours. But it happens. Then suddenly, your life is in upheaval and your vision for the future needs to change. It’s stressful and kind of scary. And it sucks. But, it can also be an exciting opportunity to establish the new and improved, independent you.</p>

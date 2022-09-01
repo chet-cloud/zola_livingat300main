@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2019-04-23 17:17:27
 date_gmt: 2019-04-23 17:17:27
+draft: false
 excerpt: As the snow begins to melt and the weather turns itself up a notch, it’s
   finally time for Winnipeggers to celebrate spring! What better way then attending
   some of Winnipeg’s most talked-about spring events?
@@ -12,15 +13,12 @@ file_name: spring-in-downtown-events-you-wont-want-to-miss.md
 guid: https://livingat300main.ca/?p=4367
 id: '4367'
 menu_order: '0'
-modified: 2019-04-23 17:17:27
-modified_gmt: 2019-04-23 17:17:27
 name: spring-in-downtown-events-you-wont-want-to-miss
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   category:
   - adventure
@@ -35,6 +33,8 @@ taxonomies:
 title: 'Spring in Downtown: Events You Won’t Want to Miss'
 to_ping: ''
 type: post
+updated: 2019-04-23 17:17:27
+updated_gmt: 2019-04-23 17:17:27
 ---
 As the snow begins to melt and the weather turns itself up a notch, it’s finally time for Winnipeggers to celebrate spring! What better way then attending some of Winnipeg’s most talked-about spring events?
 <h3><a href="https://www.theforks.com/events/calendar-of-events/event/248">UnCommon Pours V05: Spring Wine List Launch</a></h3>

@@ -5,20 +5,18 @@ comment_status: open
 content_filtered: ''
 date: 2022-08-17 20:56:50
 date_gmt: 2022-08-17 20:56:50
+draft: false
 excerpt: ''
 file_name: summer-smoothies.md
 guid: https://livingat300main.ca/?p=10346
 id: '10346'
 menu_order: '0'
-modified: 2022-08-17 20:56:50
-modified_gmt: 2022-08-17 20:56:50
 name: summer-smoothies
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   category:
   - uncategorized
@@ -27,6 +25,8 @@ taxonomies:
 title: Summer Smoothies
 to_ping: ''
 type: post
+updated: 2022-08-17 20:56:50
+updated_gmt: 2022-08-17 20:56:50
 ---
 <!-- wp:paragraph -->
 <p>Smoothies are a delicious and healthy way to get through your day. Whether you use them as a quick and easy breakfast alternative or a great mid-day snack to get you through the rest of the day, smoothies are the perfect boost at any time! And what better season to get into smoothies <a href="https://livingat300main.ca/top-10-summer-cocktails/" target="_blank" rel="noreferrer noopener">than summer</a>?</p>

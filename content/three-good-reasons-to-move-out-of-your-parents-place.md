@@ -5,20 +5,18 @@ comment_status: open
 content_filtered: ''
 date: 2021-04-12 19:47:01
 date_gmt: 2021-04-12 19:47:01
+draft: false
 excerpt: ''
 file_name: three-good-reasons-to-move-out-of-your-parents-place.md
 guid: https://livingat300main.ca/?p=6541
 id: '6541'
 menu_order: '0'
-modified: 2021-04-12 19:47:01
-modified_gmt: 2021-04-12 19:47:01
 name: three-good-reasons-to-move-out-of-your-parents-place
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - apartment-building-in-downtown-winnipeg
@@ -35,6 +33,8 @@ taxonomies:
 title: Three good reasons to move out of your parents' place
 to_ping: ''
 type: post
+updated: 2021-04-12 19:47:01
+updated_gmt: 2021-04-12 19:47:01
 ---
 <!-- wp:paragraph -->
 <p>At a certain age, we all crave more independence to express&nbsp;ourselves&nbsp;and make our own choices.&nbsp;At that point, you have a choice:&nbsp;to get&nbsp;yourself&nbsp;out into the world and find&nbsp;independence,&nbsp;or stay in the comfort of&nbsp;the childhood nest and&nbsp;convince yourself that independence can coexist with&nbsp;mama’s dinners.&nbsp;&nbsp;</p>

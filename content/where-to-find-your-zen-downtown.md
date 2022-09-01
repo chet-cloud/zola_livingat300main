@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2019-07-05 15:49:57
 date_gmt: 2019-07-05 15:49:57
+draft: false
 excerpt: Downtown can get hectic, and sometimes all I want is a hideaway for some
   peace and quiet. Thankfully, downtown Winnipeg offers countless places to do yoga,
   meditate, study, or just regroup. Here are some of my go-to spots!
@@ -12,15 +13,12 @@ file_name: where-to-find-your-zen-downtown.md
 guid: https://livingat300main.ca/?p=5153
 id: '5153'
 menu_order: '0'
-modified: 2019-07-05 15:49:57
-modified_gmt: 2019-07-05 15:49:57
 name: where-to-find-your-zen-downtown
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - 300-main
@@ -108,6 +106,8 @@ taxonomies:
 title: Where to Find Your Zen Downtown
 to_ping: ''
 type: post
+updated: 2019-07-05 15:49:57
+updated_gmt: 2019-07-05 15:49:57
 ---
 Downtown can get hectic, and sometimes all I want is a hideaway for some peace and quiet. Thankfully, downtown Winnipeg offers countless places to do yoga, meditate, study, or just regroup. Here are some of my go-to spots!
 <h3>Where can I meditate?</h3>

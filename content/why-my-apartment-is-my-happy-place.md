@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2020-02-07 22:58:36
 date_gmt: 2020-02-07 22:58:36
+draft: false
 excerpt: 'You’ve had a hectic day at work. You were a responsible adult and ran all
   your errands. And now, you’re exhausted. Luckily, you live right downtown so you
   make your way home quickly. You swing open the door to your apartment and you immediately
@@ -14,15 +15,12 @@ file_name: why-my-apartment-is-my-happy-place.md
 guid: https://livingat300main.ca/?p=6217
 id: '6217'
 menu_order: '0'
-modified: 2020-02-07 22:58:36
-modified_gmt: 2020-02-07 22:58:36
 name: why-my-apartment-is-my-happy-place
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   category:
   - apartment
@@ -32,6 +30,8 @@ taxonomies:
 title: Why My Apartment is My Happy Place
 to_ping: ''
 type: post
+updated: 2020-02-07 22:58:36
+updated_gmt: 2020-02-07 22:58:36
 ---
 <h3><b><span data-contrast="auto">What My Apartment Means to Me</span></b></h3>
 <span data-contrast="auto">My apartment is my sanctuary</span><span data-contrast="auto">—my </span><span data-contrast="auto">little piece of space that’s </span><span data-contrast="auto">all </span><span data-contrast="auto">my own. Between a career, a social life, community involvement, side projects, </span><span data-contrast="auto">and </span><span data-contrast="auto">whatever else it throws at you, life can be both exhilarating and debilitating. </span><span data-contrast="auto">My apartment is where I can </span><span data-contrast="auto">step away from it all and relax. </span><span data-contrast="auto">And when I’m </span><span data-contrast="auto">recharged and ready to take on the world again</span><span data-contrast="auto">, my apartment is right in the middle of where I want to be</span><span data-contrast="auto">!</span>

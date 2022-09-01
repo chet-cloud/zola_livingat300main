@@ -5,20 +5,18 @@ comment_status: open
 content_filtered: ''
 date: 2021-12-06 16:48:38
 date_gmt: 2021-12-06 16:48:38
+draft: false
 excerpt: ''
 file_name: amazing-houseplants-that-will-survive-the-cold-weather.md
 guid: https://livingat300main.ca/?p=7205
 id: '7205'
 menu_order: '0'
-modified: 2021-12-06 16:48:38
-modified_gmt: 2021-12-06 16:48:38
 name: amazing-houseplants-that-will-survive-the-cold-weather
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - apartment
@@ -36,6 +34,8 @@ taxonomies:
 title: Amazing houseplants that will survive the cold weather
 to_ping: ''
 type: post
+updated: 2021-12-06 16:48:38
+updated_gmt: 2021-12-06 16:48:38
 ---
 <!-- wp:paragraph -->
 <p>For Winnipeggers, keeping the greenery in their homes throughout the cold months of winter can seem challenging. The dry air and fewer hours of light aren't the best environments for most plants. However, some indoor household plants are best suited for even the chillier rooms. Check out the top 6 cold-tolerant plants that are sure to make your house cozier and brighter.</p>

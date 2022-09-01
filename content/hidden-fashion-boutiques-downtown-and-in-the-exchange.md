@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2018-10-28 11:00:54
 date_gmt: 2018-10-28 11:00:54
+draft: false
 excerpt: Winnipeggers know the best boutique shopping is on Academy Road or in Osborne
   Village. But as the gentrification of downtown Winnipeg and the Exchange District
   gains momentum, more and more small businesses are popping up. Quaintly nestled
@@ -16,15 +17,12 @@ file_name: hidden-fashion-boutiques-downtown-and-in-the-exchange.md
 guid: http://livingat300main.ca/?p=38
 id: '7923'
 menu_order: '0'
-modified: 2018-10-28 11:00:54
-modified_gmt: 2018-10-28 11:00:54
 name: hidden-fashion-boutiques-downtown-and-in-the-exchange
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - academy-road-winnipeg
@@ -84,6 +82,8 @@ taxonomies:
 title: Hidden Fashion Boutiques—Downtown and in the Exchange
 to_ping: ''
 type: post
+updated: 2018-10-28 11:00:54
+updated_gmt: 2018-10-28 11:00:54
 ---
 <img class="alignnone size-full wp-image-71" src="http://livingat300main.ca/wp-content/uploads/2018/10/DSC01179-2.png" alt="" width="780" height="520" />
 

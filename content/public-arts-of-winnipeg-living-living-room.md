@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2019-08-16 20:45:16
 date_gmt: 2019-08-16 20:45:16
+draft: false
 excerpt: The arts scene is a huge part of what makes Winnipeg so special, and the
   Winnipeg Arts Council has a lot to do with that. Since 2004, the Council has facilitated
   art displays in public spaces across Winnipeg through the Public Art Program. While
@@ -15,15 +16,12 @@ file_name: public-arts-of-winnipeg-living-living-room.md
 guid: https://livingat300main.ca/?p=5748
 id: '5748'
 menu_order: '0'
-modified: 2019-08-16 20:45:16
-modified_gmt: 2019-08-16 20:45:16
 name: public-arts-of-winnipeg-living-living-room
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - air-canada-park
@@ -71,6 +69,8 @@ taxonomies:
 title: 'Public Arts of Winnipeg: Living Living Room'
 to_ping: ''
 type: post
+updated: 2019-08-16 20:45:16
+updated_gmt: 2019-08-16 20:45:16
 ---
 The arts scene is a huge part of what makes Winnipeg so special, and the <a href="http://winnipegarts.ca/">Winnipeg Arts Council</a> has a lot to do with that. Since 2004, the Council has facilitated art displays in public spaces across Winnipeg through the <a href="http://winnipegarts.ca/pubart-about">Public Art Program</a>. While many of these stunning pieces are downtown⁠—like the “<a href="http://winnipegarts.ca/wac/artwork/electrical-currents">Electrical Currents</a>” piece at <a href="https://downtownwinnipegbiz.com/business/air-canada-window-park/">Air Canada Park</a>⁠—others are scattered across the city, like the “<a href="http://winnipegarts.ca/wac/artwork/living-living-room">Living Living Room</a>.”
 

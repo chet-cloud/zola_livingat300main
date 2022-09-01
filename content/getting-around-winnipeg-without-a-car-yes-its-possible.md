@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2019-05-17 15:04:28
 date_gmt: 2019-05-17 15:04:28
+draft: false
 excerpt: Have you ever considered the best ways to get around Winnipeg without a car?
   You might scoff and think there’s no way you want to move around this frigid city
   without one, but not everyone has access to a vehicle. Others are also worried about
@@ -13,15 +14,12 @@ file_name: getting-around-winnipeg-without-a-car-yes-its-possible.md
 guid: https://livingat300main.ca/?p=4643
 id: '4643'
 menu_order: '0'
-modified: 2019-05-17 15:04:28
-modified_gmt: 2019-05-17 15:04:28
 name: getting-around-winnipeg-without-a-car-yes-its-possible
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   category:
   - adventure
@@ -32,6 +30,8 @@ taxonomies:
 title: Getting Around Winnipeg without a Car (Yes, it’s Possible!)
 to_ping: ''
 type: post
+updated: 2019-05-17 15:04:28
+updated_gmt: 2019-05-17 15:04:28
 ---
 Have you ever considered the best ways to get around Winnipeg without a car? You might scoff and think there’s no way you want to move around this frigid city without one, but not everyone has access to a vehicle. Others are also worried about the environmental damage cars do.
 

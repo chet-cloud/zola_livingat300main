@@ -5,20 +5,18 @@ comment_status: open
 content_filtered: ''
 date: 2021-05-21 20:21:21
 date_gmt: 2021-05-21 20:21:21
+draft: false
 excerpt: ''
 file_name: its-ice-cream-time-a-guide-to-downtown-winnipeg-ice-cream-shops.md
 guid: https://livingat300main.ca/?p=6667
 id: '6667'
 menu_order: '0'
-modified: 2021-05-21 20:21:21
-modified_gmt: 2021-05-21 20:21:21
 name: its-ice-cream-time-a-guide-to-downtown-winnipeg-ice-cream-shops
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - apartment-building-in-downtown-winnipeg
@@ -35,6 +33,8 @@ taxonomies:
 title: It's Ice cream Time! A Guide to Downtown Winnipeg Ice Cream Shops
 to_ping: ''
 type: post
+updated: 2021-05-21 20:21:21
+updated_gmt: 2021-05-21 20:21:21
 ---
 <!-- wp:paragraph -->
 <p>Springtime in Winnipeg means it’s time to visit your local ice cream parlour. So… do you prefer soft serve to gelato? With toppings or plain? Waffle cone or pint? No matter what your choices are, you can find it in Downtown Winnipeg. Here are my picks for the top ice cream and gelato shops:</p>

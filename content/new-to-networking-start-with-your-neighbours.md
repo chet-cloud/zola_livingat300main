@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2019-05-23 21:43:11
 date_gmt: 2019-05-23 21:43:11
+draft: false
 excerpt: Networking—a fancy term for a simple idea. Meet people, interact with them
   and build new relationships. We’re so used to networking through social media that
   the thought of physically interacting with people might sound a little bit alien.
@@ -12,15 +13,12 @@ file_name: new-to-networking-start-with-your-neighbours.md
 guid: https://livingat300main.ca/?p=4660
 id: '4660'
 menu_order: '0'
-modified: 2019-05-23 21:43:11
-modified_gmt: 2019-05-23 21:43:11
 name: new-to-networking-start-with-your-neighbours
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   category:
   - adventure
@@ -31,6 +29,8 @@ taxonomies:
 title: New to Networking? Start With Your Neighbours!
 to_ping: ''
 type: post
+updated: 2019-05-23 21:43:11
+updated_gmt: 2019-05-23 21:43:11
 ---
 Networking—a fancy term for a simple idea. Meet people, interact with them and build new relationships. We’re so used to networking through social media that the thought of physically interacting with people might sound a little bit alien. You could have 300 people on your <a href="https://ca.linkedin.com/">LinkedIn</a> network, another 300 on <a href="https://www.facebook.com/">Facebook</a>, and not know any of them well enough to know where they are from. Friendly relations between neighbours encourages real-life networking, and as old school as it may sound, it’s so valuable. Everyone has a story to tell, and you would probably miss the most interesting chapters if you had the same conversation online.
 

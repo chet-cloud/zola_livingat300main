@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2018-10-30 20:31:24
 date_gmt: 2018-10-30 20:31:24
+draft: false
 excerpt: |-
   Food scraps comprise a large portion of Canadian waste-bin space, but they don’t belong there! Don’t let being an apartment dweller prevent you from composting and living your best eco-friendly life.
 
@@ -13,15 +14,12 @@ file_name: a-composting-guide-for-apartment-living.md
 guid: http://livingat300main.ca/?p=286
 id: '286'
 menu_order: '0'
-modified: 2018-10-30 20:31:24
-modified_gmt: 2018-10-30 20:31:24
 name: a-composting-guide-for-apartment-living
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   category:
   - apartment
@@ -32,6 +30,8 @@ taxonomies:
 title: A Composting Guide for Apartment Living
 to_ping: ''
 type: post
+updated: 2018-10-30 20:31:24
+updated_gmt: 2018-10-30 20:31:24
 ---
 Let’s play a game. Take a moment and peek into your garbage can. For every fruit or vegetable scrap, eggshell, pile of coffee grinds or pizza crust you see, give yourself a point. For this game we’re playing by golf rules: the lower the points, the higher the score. How did you do?
 

@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2019-04-02 16:00:09
 date_gmt: 2019-04-02 16:00:09
+draft: false
 excerpt: Winnipeg has been called "Little Chicago" or most commonly "The Chicago of
   the North" for good reason. At the turn of the century, Chicago and Winnipeg were
   rivals. Is that hard to believe?
@@ -12,15 +13,12 @@ file_name: winnipeg-as-little-chicago.md
 guid: https://livingat300main.ca/?p=3846
 id: '3846'
 menu_order: '0'
-modified: 2019-04-02 16:00:09
-modified_gmt: 2019-04-02 16:00:09
 name: winnipeg-as-little-chicago
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - 20th-century
@@ -77,6 +75,8 @@ taxonomies:
 title: Winnipeg As Little Chicago
 to_ping: ''
 type: post
+updated: 2019-04-02 16:00:09
+updated_gmt: 2019-04-02 16:00:09
 ---
 When Winnipeg finally introduced itself to me, it was not the first time I had been to the city. The very first time I had been to Winnipeg was on a cold December afternoon when my family moved from Russia to Canada. Our friends met us at the airport, and we drove straight from the airport to a small city just south of Winnipeg. Winnipeg and I didn't get a chance to get to know each other yet.
 

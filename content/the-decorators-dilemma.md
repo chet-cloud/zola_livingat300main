@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2019-10-18 20:01:04
 date_gmt: 2019-10-18 20:01:04
+draft: false
 excerpt: There’s always that one room⁠—you know the one. It could be a powder room,
   a bedroom, an office, a hallway, or just a weird corner. Regardless of its size
   or location, the one thing you know for sure is that it isn’t working for you. You
@@ -13,15 +14,12 @@ file_name: the-decorators-dilemma.md
 guid: https://livingat300main.ca/?p=5921
 id: '5921'
 menu_order: '0'
-modified: 2019-10-18 20:01:04
-modified_gmt: 2019-10-18 20:01:04
 name: the-decorators-dilemma
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   category:
   - apartment
@@ -32,6 +30,8 @@ taxonomies:
 title: The Decorator’s Dilemma
 to_ping: ''
 type: post
+updated: 2019-10-18 20:01:04
+updated_gmt: 2019-10-18 20:01:04
 ---
 There’s always that one room⁠—you know the one. It could be a powder room, a bedroom, an office, a hallway, or just a weird corner. Regardless of its size or location, the one thing you know for sure is that it isn’t working for you. You want it to change. You’re just not sure what that means or where to begin.
 

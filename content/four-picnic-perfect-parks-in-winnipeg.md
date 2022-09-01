@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2019-09-17 21:12:10
 date_gmt: 2019-09-17 21:12:10
+draft: false
 excerpt: The days can still be hot and sunny, but the sun rises later, the mornings
   are cooler and a 10 pm sunset is a distant memory. It’s too early to think about
   winter, and definitely too early to give up on enjoying a Winnipeg summer.
@@ -12,15 +13,12 @@ file_name: four-picnic-perfect-parks-in-winnipeg.md
 guid: https://livingat300main.ca/?p=5835
 id: '5835'
 menu_order: '0'
-modified: 2019-09-17 21:12:10
-modified_gmt: 2019-09-17 21:12:10
 name: four-picnic-perfect-parks-in-winnipeg
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   category:
   - adventure
@@ -31,6 +29,8 @@ taxonomies:
 title: Four Picnic-Perfect Parks in Winnipeg
 to_ping: ''
 type: post
+updated: 2019-09-17 21:12:10
+updated_gmt: 2019-09-17 21:12:10
 ---
 Isn’t it funny how the air changes when August rolls around, chased by September? I’m not sure if there’s any actual science behind that, but in my mind, it’s a fact.
 

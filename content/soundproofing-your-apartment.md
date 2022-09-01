@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2020-02-03 18:21:09
 date_gmt: 2020-02-03 18:21:09
+draft: false
 excerpt: Whether it's squealing garbage trucks, blaring speakers from the neighbors or
   the general buzz of foot traffic outside your window, the noise of apartment living
   can be draining. If you find that all the hubbub is making life at home maddening,
@@ -15,15 +16,12 @@ file_name: soundproofing-your-apartment.md
 guid: https://livingat300main.ca/?p=6201
 id: '6201'
 menu_order: '0'
-modified: 2020-02-03 18:21:09
-modified_gmt: 2020-02-03 18:21:09
 name: soundproofing-your-apartment
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   category:
   - apartment
@@ -33,6 +31,8 @@ taxonomies:
 title: Soundproofing Your Apartment
 to_ping: ''
 type: post
+updated: 2020-02-03 18:21:09
+updated_gmt: 2020-02-03 18:21:09
 ---
 <span data-contrast="none">Whether it's squea</span><span data-contrast="none">ling garbage trucks, blaring speakers from the neighbors</span><span data-contrast="none"> or the general buzz of foot traffic outsid</span><span data-contrast="none">e your window</span><span data-contrast="none">,</span><span data-contrast="none"> t</span><span data-contrast="none">he noise of apartment living can be draining. </span><span data-contrast="none">If you find that all the hubbub is making life at home maddening, you're not alone. For many apartment dwellers, unwanted noise is a fact of life </span><span data-contrast="none">that can seem</span><span data-contrast="none"> unavoidable.</span><span data-contrast="none"> But there are a few things you can do to dampen the noise and </span><span data-contrast="none">make your home </span><span data-contrast="none">the</span><span data-contrast="none"> soothing oasis</span><span data-contrast="none"> you deserve</span><span data-contrast="none">. </span><span data-ccp-props="{&quot;335559740&quot;:480}"> </span>
 <h3><b><span data-contrast="auto">Go Rug Shopping</span></b></h3>

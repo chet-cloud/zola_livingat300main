@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2019-07-15 15:00:13
 date_gmt: 2019-07-15 15:00:13
+draft: false
 excerpt: Have you ever been to a restaurant, bar or even hotel that just speaks to
   you? Maybe you’re drawn in by the menu, the decor, the service, or a beautiful combination
   of all three. Or maybe it has that certain je ne sais quo
@@ -12,15 +13,12 @@ file_name: breakfast-at-smith-restaurant-inn-at-the-forks-winnipeg.md
 guid: https://livingat300main.ca/?p=5356
 id: '5356'
 menu_order: '0'
-modified: 2019-07-15 15:00:13
-modified_gmt: 2019-07-15 15:00:13
 name: breakfast-at-smith-restaurant-inn-at-the-forks-winnipeg
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - 75-forks-market-road
@@ -64,6 +62,8 @@ taxonomies:
 title: Breakfast at SMITH Restaurant (Inn at The Forks, Winnipeg)
 to_ping: ''
 type: post
+updated: 2019-07-15 15:00:13
+updated_gmt: 2019-07-15 15:00:13
 ---
 Have you ever been to a restaurant, bar or even hotel that just speaks to you? Maybe you’re drawn in by the menu, the decor, the service, or a beautiful combination of all three. Or maybe it has that certain <em>je ne sais quoi</em>.
 

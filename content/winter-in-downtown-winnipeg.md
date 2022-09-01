@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2019-12-13 22:06:19
 date_gmt: 2019-12-13 22:06:19
+draft: false
 excerpt: 'The air is crisper; the lights twinkle a little brighter. As the days shorten
   and sweater weather turns to winter coat season, downtown Winnipeg proves there’s
   no shortage of wintertime activities to enjoy—both inside and out. Mark your calendar
@@ -13,15 +14,12 @@ file_name: winter-in-downtown-winnipeg.md
 guid: https://livingat300main.ca/?p=6107
 id: '6107'
 menu_order: '0'
-modified: 2019-12-13 22:06:19
-modified_gmt: 2019-12-13 22:06:19
 name: winter-in-downtown-winnipeg
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   category:
   - art-photography
@@ -32,6 +30,8 @@ taxonomies:
 title: Winter in Downtown Winnipeg
 to_ping: ''
 type: post
+updated: 2019-12-13 22:06:19
+updated_gmt: 2019-12-13 22:06:19
 ---
 <span data-contrast="none">The air is crisper</span><span data-contrast="none">; </span><span data-contrast="none">the lights twinkle a little brighter. As the days shorten a</span><span data-contrast="none">nd sweater weather turns to winter</span><span data-contrast="none"> coat season, </span><span data-contrast="none">downtown Winnipeg </span><span data-contrast="none">p</span><span data-contrast="none">roves there</span><span data-contrast="none">’s </span><span data-contrast="none">no shortage of wintertime activities to enjoy</span><span data-contrast="none">—both </span><span data-contrast="none">inside and out.</span><span data-contrast="none"> </span><span data-contrast="none">Mark your calendar </span><span data-contrast="none">for</span><span data-contrast="none"> these nine festive events!</span><span data-ccp-props="{&quot;335559740&quot;:480}"> </span>
 <h3><a href="https://www.firstfridayswinnipeg.org/"><b><span data-contrast="none">First Fridays</span></b></a><b><span data-contrast="auto"> </span></b><span data-ccp-props="{}"> </span></h3>

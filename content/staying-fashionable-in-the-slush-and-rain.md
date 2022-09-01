@@ -5,20 +5,18 @@ comment_status: open
 content_filtered: ''
 date: 2022-04-22 16:52:06
 date_gmt: 2022-04-22 16:52:06
+draft: false
 excerpt: ''
 file_name: staying-fashionable-in-the-slush-and-rain.md
 guid: https://livingat300main.ca/?p=7753
 id: '7753'
 menu_order: '0'
-modified: 2022-04-22 16:52:06
-modified_gmt: 2022-04-22 16:52:06
 name: staying-fashionable-in-the-slush-and-rain
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - boots
@@ -39,6 +37,8 @@ taxonomies:
 title: Staying Fashionable in the Slush and Rain
 to_ping: ''
 type: post
+updated: 2022-04-22 16:52:06
+updated_gmt: 2022-04-22 16:52:06
 ---
 <!-- wp:paragraph -->
 <p>It is safe to say the spring season is finally here to stay, and after a long winter, Winnipeg is welcoming it warmly! As we transition out of winter and into spring, every Winnipegger knows that with the warm weather comes rain and slush. When it comes to the spring in Winnipeg, the last thing you want to be is unprepared. </p>

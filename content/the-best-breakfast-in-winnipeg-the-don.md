@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2019-08-23 15:55:13
 date_gmt: 2019-08-23 15:55:13
+draft: false
 excerpt: People say breakfast is the easiest thing to make, but this picky eater and
   breakfast aficionado begs to differ. Sure, anyone can make breakfast, but not everyone
   can make an exceptional breakfast.
@@ -12,15 +13,12 @@ file_name: the-best-breakfast-in-winnipeg-the-don.md
 guid: https://livingat300main.ca/?p=5760
 id: '5760'
 menu_order: '0'
-modified: 2019-08-23 15:55:13
-modified_gmt: 2019-08-23 15:55:13
 name: the-best-breakfast-in-winnipeg-the-don
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - 120-donald-street
@@ -55,6 +53,8 @@ taxonomies:
 title: 'The Best Breakfast in Winnipeg: The Don'
 to_ping: ''
 type: post
+updated: 2019-08-23 15:55:13
+updated_gmt: 2019-08-23 15:55:13
 ---
 People say breakfast is the easiest thing to make, but this picky eater and breakfast aficionado begs to differ. Sure, anyone can make breakfast, but not everyone can make an exceptional breakfast.
 <h3>The Don Tops the List</h3>

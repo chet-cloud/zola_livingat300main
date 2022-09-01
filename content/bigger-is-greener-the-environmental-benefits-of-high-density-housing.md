@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2019-11-21 21:41:11
 date_gmt: 2019-11-21 21:41:11
+draft: false
 excerpt: Canadians are increasingly living in cities, and Winnipeg is no exception.
   It can sometimes be hard for communities with fast-growing populations to keep up
   with the infrastructure needs for new residents. That’s why many cities are gravitating
@@ -13,15 +14,12 @@ file_name: bigger-is-greener-the-environmental-benefits-of-high-density-housing.
 guid: https://livingat300main.ca/?p=6057
 id: '6057'
 menu_order: '0'
-modified: 2019-11-21 21:41:11
-modified_gmt: 2019-11-21 21:41:11
 name: bigger-is-greener-the-environmental-benefits-of-high-density-housing
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - 300-main-apartments
@@ -118,6 +116,8 @@ taxonomies:
 title: 'Bigger is Greener: The Environmental Benefits of High-Density Housing'
 to_ping: ''
 type: post
+updated: 2019-11-21 21:41:11
+updated_gmt: 2019-11-21 21:41:11
 ---
 Canadians are increasingly <a href="https://www.macleans.ca/news/canada/census-2016-a-picture-of-a-bigger-more-urban-canada/">living in cities</a>, and <a href="https://canadapopulation.org/winnipeg-population/">Winnipeg is no exception</a>. It can sometimes be hard for communities with fast-growing populations to keep up with the infrastructure needs for new residents. That’s why many cities are gravitating towards more high-density housing as part of their “<a href="https://www.smartcitiesdive.com/ex/sustainablecitiescollective/urban-density-and-sustainability/241696/">smart growth</a>” strategies.
 <h3>What is High-Density Housing?</h3>

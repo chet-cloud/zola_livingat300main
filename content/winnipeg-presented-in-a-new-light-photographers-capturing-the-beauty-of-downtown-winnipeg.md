@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2018-10-23 17:55:58
 date_gmt: 2018-10-23 17:55:58
+draft: false
 excerpt: For many, downtown Winnipeg has become a focal point and hub for photography thanks
   in part to its diverse cityscapes and character. A mix of late 1800s Chicago-style
   architecture that inhabits the Exchange, along with sporadic growth and revitalization
@@ -13,15 +14,12 @@ file_name: winnipeg-presented-in-a-new-light-photographers-capturing-the-beauty-
 guid: http://livingat300main.ca/?p=248
 id: '248'
 menu_order: '0'
-modified: 2018-10-23 17:55:58
-modified_gmt: 2018-10-23 17:55:58
 name: winnipeg-presented-in-a-new-light-photographers-capturing-the-beauty-of-downtown-winnipeg
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - 360-restaurant-winnipeg
@@ -114,6 +112,8 @@ title: 'Winnipeg Presented in a New Light: Photographers Capturing the Beauty of
   Winnipeg'
 to_ping: ''
 type: post
+updated: 2018-10-23 17:55:58
+updated_gmt: 2018-10-23 17:55:58
 ---
 [caption id="attachment_256" align="alignleft" width="400"]<a href="https://www.instagram.com/p/BnfSFpQAbUh/"><img class="wp-image-256" src="http://livingat300main.ca/wp-content/uploads/2018/10/by-Josh-Lavallee-819x1024.jpg" alt="" width="400" height="500" /></a> Photo by Josh Lavallee @yoshigrams[/caption]
 

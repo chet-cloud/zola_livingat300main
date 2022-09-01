@@ -5,21 +5,19 @@ comment_status: open
 content_filtered: ''
 date: 2019-05-31 17:48:02
 date_gmt: 2019-05-31 17:48:02
+draft: false
 excerpt: When it comes to interior design, mixing and matching styles makes it look
   like you know what you are doing. Here are 5 things you need to know to get started.
 file_name: vintage-modern-or-minimalist.md
 guid: https://livingat300main.ca/?p=4675
 id: '4675'
 menu_order: '0'
-modified: 2019-05-31 17:48:02
-modified_gmt: 2019-05-31 17:48:02
 name: vintage-modern-or-minimalist
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - accents
@@ -79,6 +77,8 @@ taxonomies:
 title: Vintage, Modern or Minimalist? Mixing and Matching Your Décor
 to_ping: ''
 type: post
+updated: 2019-05-31 17:48:02
+updated_gmt: 2019-05-31 17:48:02
 ---
 Your home is your shelter; where you spend your most intimate time has a part of you. It should tell the world who you are and be where you want to be every evening. No matter how big or small your place is, you can always personalize it to your exact taste by mixing and matching styles!
 <blockquote>Fashion is not something that exists in dresses only. Fashion is in the sky, in the street, fashion has to do with ideas, the way we live, what is happening.

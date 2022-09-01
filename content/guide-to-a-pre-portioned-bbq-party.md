@@ -5,20 +5,18 @@ comment_status: open
 content_filtered: ''
 date: 2021-08-10 16:24:17
 date_gmt: 2021-08-10 16:24:17
+draft: false
 excerpt: ''
 file_name: guide-to-a-pre-portioned-bbq-party.md
 guid: https://livingat300main.ca/?p=6919
 id: '6919'
 menu_order: '0'
-modified: 2021-08-10 16:24:17
-modified_gmt: 2021-08-10 16:24:17
 name: guide-to-a-pre-portioned-bbq-party
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - apartment-building-in-downtown-winnipeg
@@ -35,6 +33,8 @@ taxonomies:
 title: Guide to a Pre-portioned BBQ Party
 to_ping: ''
 type: post
+updated: 2021-08-10 16:24:17
+updated_gmt: 2021-08-10 16:24:17
 ---
 <!-- wp:paragraph -->
 <p>Barbecuing is already the quintessential summer activity. So as restrictions begin to ease, what better open air, socially distanced way to see our friends again than an all-out backyard barbeque?!</p>

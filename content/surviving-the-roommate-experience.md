@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2019-01-24 11:00:15
 date_gmt: 2019-01-24 11:00:15
+draft: false
 excerpt: While most of us love the idea of having our own space to do exactly what
   we want in, the reality is that living alone can be expensive. It can also be lonely,
   so some of us choose to have roommates for companionship. Whatever your reasons
@@ -13,15 +14,12 @@ file_name: surviving-the-roommate-experience.md
 guid: https://livingat300main.ca/?p=2617
 id: '2617'
 menu_order: '0'
-modified: 2019-01-24 11:00:15
-modified_gmt: 2019-01-24 11:00:15
 name: surviving-the-roommate-experience
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - annoyance
@@ -49,6 +47,8 @@ taxonomies:
 title: Surviving the Roommate Experience
 to_ping: ''
 type: post
+updated: 2019-01-24 11:00:15
+updated_gmt: 2019-01-24 11:00:15
 ---
 While most of us love the idea of having our own space to do exactly what we want in, the reality is that living alone can be expensive. It can also be lonely, so some of us choose to have roommates for companionship. Whatever your reasons might be, living with roommates can be a lovely—or disastrous—experience.
 <h3>The Good</h3>

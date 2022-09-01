@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2018-12-11 11:00:24
 date_gmt: 2018-12-11 11:00:24
+draft: false
 excerpt: We’ve all gone to a Jets game or a concert downtown and come out feeling
   elated after it ended. We looked at our friends, standing in the entrance of Bell
   MTS Place or shivering outside, and debated where to go for a nightcap. We didn’t
@@ -15,15 +16,12 @@ file_name: where-to-stop-for-a-nightcap-after-a-jets-game.md
 guid: https://livingat300main.ca/?p=2004
 id: '2004'
 menu_order: '0'
-modified: 2018-12-11 11:00:24
-modified_gmt: 2018-12-11 11:00:24
 name: where-to-stop-for-a-nightcap-after-a-jets-game
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   category:
   - adventure
@@ -34,6 +32,8 @@ taxonomies:
 title: Where to Stop for a Nightcap After a Jets Game
 to_ping: ''
 type: post
+updated: 2018-12-11 11:00:24
+updated_gmt: 2018-12-11 11:00:24
 ---
 We’ve all gone to a <a href="https://www.nhl.com/jets">Jets</a> game or a concert downtown and come out feeling elated after it ended. We looked at our friends, standing in the entrance of <a href="http://www.bellmtsplace.ca/">Bell MTS Place</a> or shivering outside, and debated where to go for a nightcap. We didn’t want the night to end just yet, and we wanted to gush over what we’d just experienced. Should we go to <a href="https://www.tavernunited.com/">Tavern</a>? <a href="http://www.thepint.ca/winnipeg/">The Pint</a>? <a href="http://brownssocialhouse.com/">Browns Social House</a>? We could, but those spots tend to get crowded as fans flow out of Bell MTS Place, and they don’t offer much more than your basic pint of beer and your standard Caesar. If you’re looking for something a little bit different and much more intimate, here’s a list of places downtown and in the <a href="https://www.exchangedistrict.org/">Exchange</a> that aren’t your typical pub.
 <h3><a href="https://www.nonsuch.beer/">Nonsuch Brewing Co.</a></h3>

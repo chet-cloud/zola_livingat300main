@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2019-06-28 14:08:33
 date_gmt: 2019-06-28 14:08:33
+draft: false
 excerpt: 'If you’ve made the decision to join the world of happy dog owners, congratulations!
   Deciding to add a dog to your family is a big commitment, but the joy a canine companion
   brings can’t be beat. You’re probably wondering: <em>How do I choose the right dog
@@ -14,15 +15,12 @@ file_name: choosing-the-right-dog-for-your-apartment.md
 guid: https://livingat300main.ca/?p=4992
 id: '4992'
 menu_order: '0'
-modified: 2019-06-28 14:08:33
-modified_gmt: 2019-06-28 14:08:33
 name: choosing-the-right-dog-for-your-apartment
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - 300-main-apartments
@@ -64,6 +62,8 @@ taxonomies:
 title: Choosing the Right Dog For Your Apartment
 to_ping: ''
 type: post
+updated: 2019-06-28 14:08:33
+updated_gmt: 2019-06-28 14:08:33
 ---
 If you’ve made the decision to join the world of happy dog owners, congratulations! Deciding to add a dog to your family is a big commitment, but the joy a canine companion brings can’t be beat. You’re probably wondering: <em>How do I choose the right dog for my apartment?</em> Is it a question of size? Activity level? Or something else? The answer may surprise you!
 

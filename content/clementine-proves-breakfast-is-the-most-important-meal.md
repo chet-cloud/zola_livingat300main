@@ -5,6 +5,7 @@ comment_status: open
 content_filtered: ''
 date: 2019-05-02 21:09:59
 date_gmt: 2019-05-02 21:09:59
+draft: false
 excerpt: Looking for a breakfast/brunch/lunch option other than the usual pancakes
   or basic bacon and eggs? Clementine will enchant your taste buds with dishes that
   burst with flavour, at a price you won’t be mad about.
@@ -12,15 +13,12 @@ file_name: clementine-proves-breakfast-is-the-most-important-meal.md
 guid: https://livingat300main.ca/?p=4390
 id: '4390'
 menu_order: '0'
-modified: 2019-05-02 21:09:59
-modified_gmt: 2019-05-02 21:09:59
 name: clementine-proves-breakfast-is-the-most-important-meal
 ping_status: closed
 pinged: ''
 post_mime_type: ''
 post_parent: '0'
 post_password: ''
-status: publish
 taxonomies:
   post_tag:
   - all-canadian
@@ -71,6 +69,8 @@ taxonomies:
 title: Clementine Proves Breakfast is the Most Important Meal
 to_ping: ''
 type: post
+updated: 2019-05-02 21:09:59
+updated_gmt: 2019-05-02 21:09:59
 ---
 Looking for a breakfast/brunch/lunch option other than the usual pancakes or basic bacon and eggs? Clementine will enchant your taste buds with dishes that burst with flavour, at a price you won’t be mad about.
 
