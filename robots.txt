@@ -1,0 +1,4 @@
+Sitemap: https://chet-cloud.github.io/zola_livingat300main/sitemap.xml
+User-Agent: *
+Allow: /
+Host: https://chet-cloud.github.io/zola_livingat300main
